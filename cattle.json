@@ -1,0 +1,6305 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a6b8f6a8b41c5f3d13",
+        "index": 0,
+        "guid": "e18f7c36-92ae-45da-8d6f-6ea9ce36c887",
+        "isAlive": true,
+        "picture": "https://rawhideio.github.io/site/data/photos/1.png",
+        "age": 30,
+        "eyeColor": "brown",
+        "sex": "female",
+        "company": "RECRISYS",
+        "phone": "+1 (863) 573-2915",
+        "address": "337 Marconi Place, Eggertsville, North Dakota, 28375",
+        "notes": [
+          "Fugiat reprehenderit ea consectetur ullamco nulla elit deserunt occaecat elit non nisi. Ut ex fugiat velit culpa dolore culpa voluptate fugiat aliquip fugiat ad. Elit officia exercitation magna enim adipisicing aliquip."
+        ],
+        "registered": "Monday, September 1, 2014 5:45 AM",
+        "sire": "5b9483a6295fcd5479cac77c",
+        "dam": "5b9483a6dc558fd036c06b6f",
+        "epd": {
+          "CED": "-13",
+          "BW": "7",
+          "WW": "14",
+          "YW": "177",
+          "RADG": "0",
+          "DMI": "-1",
+          "YH": "-2",
+          "SC": "-1",
+          "Doc": "8",
+          "HP": "20",
+          "CEM": "8",
+          "Milk": "-4",
+          "MW": "3",
+          "MH": "0",
+          "EN": "66",
+          "CW": "15",
+          "Marb": "-1",
+          "RE": "0",
+          "Fat": "0",
+          "W": "61",
+          "F": "187",
+          "G": "-10",
+          "QG": "40",
+          "YG": "5",
+          "B": "142"
+        },
+        "genes": [
+          "UUL",
+          "IHI",
+          "TAJ",
+          "RPK",
+          "RLB"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.61215454793411,
+          43.7385805056184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a677dbf3acf473c0b4",
+        "index": 1,
+        "guid": "76cebd45-3e20-46e6-bcb9-b408ca744a78",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/6.png",
+        "age": 20,
+        "eyeColor": "blue",
+        "sex": "female",
+        "company": "ELEMANTRA",
+        "phone": "+1 (986) 511-3333",
+        "address": "361 Ryder Street, Cedarville, Maryland, 47083",
+        "notes": [
+          "Anim et dolore do ipsum velit voluptate. Pariatur veniam velit est non adipisicing. Voluptate amet laborum exercitation aliquip sit ullamco proident tempor eiusmod laboris fugiat. Mollit exercitation sit irure adipisicing. Deserunt pariatur qui culpa dolore ea exercitation."
+        ],
+        "registered": "Saturday, January 10, 2015 8:19 AM",
+        "sire": "5b9483a69d091b80e615b51b",
+        "dam": "5b9483a6b56a87cba7404276",
+        "epd": {
+          "CED": "-10",
+          "BW": "9",
+          "WW": "14",
+          "YW": "110",
+          "RADG": "1",
+          "DMI": "2",
+          "YH": "2",
+          "SC": "3",
+          "Doc": "-8",
+          "HP": "-2",
+          "CEM": "11",
+          "Milk": "26",
+          "MW": "17",
+          "MH": "-2",
+          "EN": "26",
+          "CW": "-15",
+          "Marb": "2",
+          "RE": "-1",
+          "Fat": "0",
+          "W": "61",
+          "F": "-13",
+          "G": "21",
+          "QG": "-12",
+          "YG": "-2",
+          "B": "173"
+        },
+        "genes": [
+          "BFN",
+          "RRS",
+          "TAJ",
+          "GWB",
+          "RPA"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.95200962165484,
+          42.83648250667018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a66ef39c667ec02d5f",
+        "index": 2,
+        "guid": "08db77b8-139e-4b24-9121-f17c74b70d11",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/7.png",
+        "age": 35,
+        "eyeColor": "brown",
+        "sex": "male",
+        "company": "NIPAZ",
+        "phone": "+1 (804) 596-2183",
+        "address": "211 Sharon Street, Mulino, Virginia, 49414",
+        "notes": [
+          "Proident consectetur laborum et est. Fugiat esse aliqua amet sit sint minim. Reprehenderit quis voluptate incididunt culpa consequat magna cillum adipisicing adipisicing officia esse. Duis fugiat voluptate quis elit consequat qui consectetur eiusmod veniam adipisicing consequat ipsum non. Duis dolor elit deserunt mollit incididunt culpa aliqua in dolor. Quis commodo incididunt Lorem adipisicing cupidatat magna ut sit aliqua."
+        ],
+        "registered": "Wednesday, July 11, 2018 9:17 PM",
+        "sire": "5b9483a618574e05dba0c5fc",
+        "dam": "5b9483a6cddefdc14eea7067",
+        "epd": {
+          "CED": "-7",
+          "BW": "-2",
+          "WW": 16,
+          "YW": 148,
+          "RADG": 0,
+          "DMI": "-2",
+          "YH": 2,
+          "SC": "-1",
+          "Doc": 11,
+          "HP": 4,
+          "CEM": 19,
+          "Milk": "-1",
+          "MW": 40,
+          "MH": 0,
+          "EN": "-2",
+          "CW": 93,
+          "Marb": 2,
+          "RE": 0,
+          "Fat": 0,
+          "W": "-14",
+          "F": 79,
+          "G": "-8",
+          "QG": "-7",
+          "YG": 3,
+          "B": "-38"
+        },
+        "genes": [
+          "RRS",
+          "GWB",
+          "KNW",
+          "WSN",
+          "KBB"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.66921825443976,
+          42.486987228019174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a67f326e136838e307",
+        "index": 3,
+        "guid": "ac358036-9215-4148-b2d1-0b84d54cc617",
+        "isAlive": true,
+        "picture": "https://rawhideio.github.io/site/data/photos/7.png",
+        "age": 15,
+        "eyeColor": "brown",
+        "sex": "male",
+        "company": "PERKLE",
+        "phone": "+1 (855) 536-2043",
+        "address": "412 Woodhull Street, Wawona, Maine, 96879",
+        "notes": [
+          "Id commodo non est laborum consectetur veniam adipisicing fugiat ullamco et voluptate. Ullamco do mollit cupidatat irure adipisicing ad duis. Consectetur anim quis ipsum enim cupidatat dolor enim est et duis in veniam aute laboris."
+        ],
+        "registered": "Friday, November 10, 2017 3:46 AM",
+        "sire": "5b9483a665ddd8ee11927a32",
+        "dam": "5b9483a625409da47c2e9faa",
+        "epd": {
+          "CED": 8,
+          "BW": 8,
+          "WW": 37,
+          "YW": 24,
+          "RADG": 0,
+          "DMI": "-2",
+          "YH": "-1",
+          "SC": "-1",
+          "Doc": 32,
+          "HP": "-1",
+          "CEM": 14,
+          "Milk": 23,
+          "MW": 114,
+          "MH": 2,
+          "EN": "-14",
+          "CW": "-29",
+          "Marb": 2,
+          "RE": 1,
+          "Fat": 0,
+          "W": 12,
+          "F": 22,
+          "G": 44,
+          "QG": 20,
+          "YG": 0,
+          "B": 196
+        },
+        "genes": [
+          "KNW",
+          "WIW",
+          "IHI",
+          "WSN",
+          "KBB"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.01543322664595,
+          44.29855187798795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a64b57bf670a3a6afe",
+        "index": 4,
+        "guid": "9c3630e6-ba94-4f90-a993-1b0adb18ece7",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/1.png",
+        "age": 3,
+        "eyeColor": "brown",
+        "sex": "female",
+        "company": "LEXICONDO",
+        "phone": "+1 (833) 594-3708",
+        "address": "166 Noble Street, Waterview, Alaska, 92896",
+        "notes": [
+          "Eiusmod ullamco nulla nostrud excepteur nulla dolor tempor duis eiusmod irure elit mollit incididunt. Nisi et in dolore incididunt enim adipisicing exercitation aute Lorem nostrud non cillum. Mollit veniam dolore quis est laborum occaecat mollit. Laborum fugiat ipsum velit irure in ut est deserunt irure non. Exercitation nisi officia consequat consectetur dolor dolor minim proident ad quis ad aute irure."
+        ],
+        "registered": "Monday, April 25, 2016 11:02 PM",
+        "sire": "5b9483a69e9b5f4afca8e4eb",
+        "dam": "5b9483a6099f5a065c891c25",
+        "epd": {
+          "CED": "-12",
+          "BW": "-1",
+          "WW": 91,
+          "YW": 102,
+          "RADG": 0,
+          "DMI": "-1",
+          "YH": 0,
+          "SC": 3,
+          "Doc": 15,
+          "HP": 0,
+          "CEM": 12,
+          "Milk": 14,
+          "MW": "-84",
+          "MH": 0,
+          "EN": 41,
+          "CW": 32,
+          "Marb": 0,
+          "RE": "-1",
+          "Fat": 0,
+          "W": 54,
+          "F": 115,
+          "G": 18,
+          "QG": 56,
+          "YG": "-5",
+          "B": "-10"
+        },
+        "genes": [
+          "ZGD",
+          "GWB",
+          "UUL",
+          "KNW",
+          "TTB"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.1567564466709,
+          42.05922406398944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a6571ee4bb447d5564",
+        "index": 5,
+        "guid": "809f4de2-5396-45fd-a6ef-d9989d667886",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/2.png",
+        "age": 1,
+        "eyeColor": "green",
+        "sex": "female",
+        "company": "GEEKOL",
+        "phone": "+1 (955) 446-2734",
+        "address": "692 Fairview Place, Ogema, Guam, 83612",
+        "notes": [
+          "Laborum labore amet labore duis veniam voluptate. Sit minim quis Lorem dolore tempor. Lorem adipisicing commodo amet eiusmod et cupidatat excepteur elit ipsum consectetur. Proident deserunt fugiat ut deserunt excepteur veniam aliqua ex anim id."
+        ],
+        "registered": "Wednesday, January 21, 2015 7:56 AM",
+        "sire": "5b9483a6bb2ab5be003a6031",
+        "dam": "5b9483a6ce627ff2fad64bad",
+        "epd": {
+          "CED": "-15",
+          "BW": 2,
+          "WW": "-5",
+          "YW": 115,
+          "RADG": 0,
+          "DMI": 1,
+          "YH": "-1",
+          "SC": 3,
+          "Doc": 20,
+          "HP": 3,
+          "CEM": 7,
+          "Milk": 45,
+          "MW": 56,
+          "MH": 1,
+          "EN": "-5",
+          "CW": 81,
+          "Marb": 0,
+          "RE": 1,
+          "Fat": 1,
+          "W": 88,
+          "F": "-82",
+          "G": "-6",
+          "QG": 14,
+          "YG": "-14",
+          "B": 8
+        },
+        "genes": [
+          "ZGD",
+          "KNW",
+          "IHI",
+          "RLB",
+          "WSN"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.8196824978467,
+          41.486780037944186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a65b9c69ad1e7a1e18",
+        "index": 6,
+        "guid": "bdd37445-3b5b-4dc4-b353-bffb0aa131ba",
+        "isAlive": true,
+        "picture": "https://rawhideio.github.io/site/data/photos/1.png",
+        "age": 20,
+        "eyeColor": "brown",
+        "sex": "male",
+        "company": "ANDERSHUN",
+        "phone": "+1 (870) 587-3259",
+        "address": "982 Sunnyside Court, Hardyville, Federated States Of Micronesia, 15266",
+        "notes": [
+          "Laboris incididunt proident qui veniam voluptate eiusmod non et et. Culpa elit consectetur elit ipsum minim exercitation et enim exercitation ad velit consequat sit laboris. Qui commodo occaecat pariatur excepteur in deserunt."
+        ],
+        "registered": "Thursday, December 3, 2015 5:24 AM",
+        "sire": "5b9483a64c536039ce78c56d",
+        "dam": "5b9483a625c49e6ac7a8a47d",
+        "epd": {
+          "CED": 24,
+          "BW": 10,
+          "WW": 68,
+          "YW": 72,
+          "RADG": 1,
+          "DMI": 1,
+          "YH": 1,
+          "SC": 3,
+          "Doc": 37,
+          "HP": "-1",
+          "CEM": 8,
+          "Milk": 39,
+          "MW": 31,
+          "MH": 2,
+          "EN": 16,
+          "CW": 13,
+          "Marb": 1,
+          "RE": 0,
+          "Fat": 1,
+          "W": 29,
+          "F": 177,
+          "G": 43,
+          "QG": 35,
+          "YG": 13,
+          "B": 97
+        },
+        "genes": [
+          "KBB",
+          "TTB",
+          "WSN",
+          "KNW",
+          "QAR"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.87882965292518,
+          44.00432634058436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a6d98fe6da3a44fe19",
+        "index": 7,
+        "guid": "b0ad28c9-99f5-4a84-bf97-3b84122c6a05",
+        "isAlive": true,
+        "picture": "https://rawhideio.github.io/site/data/photos/7.png",
+        "age": 38,
+        "eyeColor": "blue",
+        "sex": "male",
+        "company": "ISOTERNIA",
+        "phone": "+1 (931) 459-3014",
+        "address": "962 Etna Street, Dola, Michigan, 14570",
+        "notes": [
+          "Commodo est non mollit dolor minim eu minim mollit. Lorem incididunt enim eiusmod dolor commodo. Consequat culpa sunt sint fugiat velit. Sunt occaecat duis id deserunt excepteur proident Lorem do laboris cillum elit voluptate reprehenderit in."
+        ],
+        "registered": "Friday, July 3, 2015 8:56 AM",
+        "sire": "5b9483a638a065377d201457",
+        "dam": "5b9483a660ebbbda33430d41",
+        "epd": {
+          "CED": "-11",
+          "BW": "-5",
+          "WW": 44,
+          "YW": 117,
+          "RADG": 1,
+          "DMI": 0,
+          "YH": 1,
+          "SC": 3,
+          "Doc": "-16",
+          "HP": 9,
+          "CEM": 7,
+          "Milk": 25,
+          "MW": 46,
+          "MH": "-1",
+          "EN": "-44",
+          "CW": 32,
+          "Marb": 2,
+          "RE": 0,
+          "Fat": 1,
+          "W": 3,
+          "F": 146,
+          "G": 68,
+          "QG": 51,
+          "YG": 11,
+          "B": 93
+        },
+        "genes": [
+          "GWB",
+          "BFN",
+          "RPA",
+          "WSN",
+          "UUL"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.653669227447,
+          43.93892516354406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a613e87b82d81890c9",
+        "index": 8,
+        "guid": "6b4e3ccf-a36a-4fee-a829-9f387cec9a49",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/6.png",
+        "age": 12,
+        "eyeColor": "green",
+        "sex": "male",
+        "company": "BYTREX",
+        "phone": "+1 (950) 547-2195",
+        "address": "371 Campus Place, Roulette, Oklahoma, 40863",
+        "notes": [
+          "Ut sunt officia culpa nostrud est aliqua. Aute laborum voluptate eiusmod consequat ullamco velit ea sit cupidatat elit cupidatat proident mollit. Fugiat ad culpa enim proident eu anim ut quis minim."
+        ],
+        "registered": "Tuesday, December 15, 2015 2:55 AM",
+        "sire": "5b9483a6e0721c8ee52fd3be",
+        "dam": "5b9483a691008757f42624d1",
+        "epd": {
+          "CED": 10,
+          "BW": 6,
+          "WW": 88,
+          "YW": 172,
+          "RADG": 0,
+          "DMI": 2,
+          "YH": 0,
+          "SC": 1,
+          "Doc": 7,
+          "HP": 10,
+          "CEM": "-12",
+          "Milk": 8,
+          "MW": 13,
+          "MH": 0,
+          "EN": 48,
+          "CW": 5,
+          "Marb": 0,
+          "RE": 0,
+          "Fat": 0,
+          "W": "-2",
+          "F": 156,
+          "G": "-7",
+          "QG": 29,
+          "YG": 1,
+          "B": 78
+        },
+        "genes": [
+          "KBB",
+          "WSN",
+          "ZGD",
+          "IHI",
+          "QAR"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.613494052873,
+          42.76523503689797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a68b3994e9f70cd90d",
+        "index": 9,
+        "guid": "92229dd9-e152-42bb-b428-292f02bf159c",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/3.png",
+        "age": 2,
+        "eyeColor": "blue",
+        "sex": "male",
+        "company": "EXOBLUE",
+        "phone": "+1 (844) 413-2679",
+        "address": "247 Bedford Place, Farmers, West Virginia, 44993",
+        "notes": [
+          "Excepteur velit ipsum laboris laboris est. Qui voluptate incididunt excepteur irure labore exercitation exercitation nisi tempor. Id nisi duis consequat consectetur esse officia sunt laboris. Dolor sit ut occaecat laborum adipisicing aliquip. Duis ullamco eu sit enim deserunt exercitation tempor ad aliqua. Nisi anim id et ipsum fugiat enim mollit in nostrud. Magna ea aliquip culpa nulla labore quis ullamco ex magna duis laborum deserunt tempor."
+        ],
+        "registered": "Wednesday, May 14, 2014 2:30 PM",
+        "sire": "5b9483a6c9bc5ade0d337bfb",
+        "dam": "5b9483a6577aab751e015cac",
+        "epd": {
+          "CED": 10,
+          "BW": "-3",
+          "WW": "-11",
+          "YW": 13,
+          "RADG": 0,
+          "DMI": 1,
+          "YH": 0,
+          "SC": 0,
+          "Doc": 12,
+          "HP": 5,
+          "CEM": 13,
+          "Milk": "-1",
+          "MW": "-31",
+          "MH": 0,
+          "EN": "-42",
+          "CW": "-42",
+          "Marb": 2,
+          "RE": 0,
+          "Fat": 0,
+          "W": 109,
+          "F": 96,
+          "G": 74,
+          "QG": 48,
+          "YG": 2,
+          "B": 114
+        },
+        "genes": [
+          "ZGD",
+          "UUL",
+          "TAJ",
+          "KBB",
+          "WIW"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.17355437794473,
+          41.74085267731615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a604ea011715e432d3",
+        "index": 10,
+        "guid": "6257d0f6-1ec4-4089-914d-2e5cba3f5b11",
+        "isAlive": true,
+        "picture": "https://rawhideio.github.io/site/data/photos/1.png",
+        "age": 39,
+        "eyeColor": "blue",
+        "sex": "female",
+        "company": "PODUNK",
+        "phone": "+1 (925) 420-2710",
+        "address": "977 Brightwater Avenue, Bluetown, Arizona, 37993",
+        "notes": [
+          "Cupidatat fugiat incididunt fugiat amet ad magna mollit excepteur quis veniam consectetur. Sit aute nulla ad excepteur et irure consectetur do veniam ullamco cupidatat aliquip sit. Consectetur irure laboris fugiat non tempor quis commodo quis pariatur exercitation pariatur exercitation."
+        ],
+        "registered": "Sunday, June 21, 2015 1:04 PM",
+        "sire": "5b9483a6b3388d2320c22bd5",
+        "dam": "5b9483a6f773283ab47c6f84",
+        "epd": {
+          "CED": 7,
+          "BW": 9,
+          "WW": "-5",
+          "YW": 43,
+          "RADG": 0,
+          "DMI": 0,
+          "YH": 1,
+          "SC": 0,
+          "Doc": 37,
+          "HP": 8,
+          "CEM": 2,
+          "Milk": 13,
+          "MW": "-51",
+          "MH": 1,
+          "EN": 38,
+          "CW": "-31",
+          "Marb": 1,
+          "RE": 0,
+          "Fat": 1,
+          "W": "-9",
+          "F": 15,
+          "G": 7,
+          "QG": 14,
+          "YG": 1,
+          "B": 194
+        },
+        "genes": [
+          "WIW",
+          "TTB",
+          "WSN",
+          "BFN",
+          "RPA"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.19733265201933,
+          43.76097966805631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a6a0c8802fdc33e357",
+        "index": 11,
+        "guid": "1343488d-3dd5-4f47-a6ee-45f87ae00933",
+        "isAlive": true,
+        "picture": "https://rawhideio.github.io/site/data/photos/6.png",
+        "age": 7,
+        "eyeColor": "brown",
+        "sex": "male",
+        "company": "QUILCH",
+        "phone": "+1 (886) 486-3616",
+        "address": "269 Lincoln Terrace, Brandywine, Puerto Rico, 29144",
+        "notes": [
+          "Aute sint aliqua proident irure deserunt fugiat fugiat amet pariatur ad ad. Exercitation magna excepteur sint sunt exercitation nulla ex elit sunt. Cupidatat et labore magna ullamco culpa tempor aliquip labore non sunt dolore id nulla elit. Pariatur laborum est sit velit aliqua ullamco sit excepteur veniam."
+        ],
+        "registered": "Saturday, October 28, 2017 10:43 AM",
+        "sire": "5b9483a6eff346b6443a5e7d",
+        "dam": "5b9483a617e8f35f99efc8f7",
+        "epd": {
+          "CED": 6,
+          "BW": "-6",
+          "WW": 74,
+          "YW": 53,
+          "RADG": 1,
+          "DMI": 0,
+          "YH": 1,
+          "SC": 0,
+          "Doc": "-13",
+          "HP": 1,
+          "CEM": "-11",
+          "Milk": 11,
+          "MW": "-56",
+          "MH": 1,
+          "EN": 57,
+          "CW": 5,
+          "Marb": 1,
+          "RE": 0,
+          "Fat": 0,
+          "W": 48,
+          "F": "-60",
+          "G": 76,
+          "QG": "-21",
+          "YG": "-12",
+          "B": 205
+        },
+        "genes": [
+          "GWB",
+          "WIW",
+          "KBB",
+          "ZGD",
+          "QAR"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.86730672930899,
+          42.40682812949523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a66430cbbda2e338c0",
+        "index": 12,
+        "guid": "0014fb87-c11f-47a4-95fe-236ea878d419",
+        "isAlive": true,
+        "picture": "https://rawhideio.github.io/site/data/photos/7.png",
+        "age": 16,
+        "eyeColor": "brown",
+        "sex": "female",
+        "company": "ZORK",
+        "phone": "+1 (882) 564-3666",
+        "address": "574 Banker Street, Smeltertown, Marshall Islands, 90486",
+        "notes": [
+          "Sint nostrud quis dolor tempor mollit consectetur ad quis eiusmod. Nulla laboris dolore irure excepteur. Laboris dolore eu dolor amet elit adipisicing laborum in enim consequat."
+        ],
+        "registered": "Sunday, November 22, 2015 6:53 PM",
+        "sire": "5b9483a666dac8f2ec869af2",
+        "dam": "5b9483a656a5ff348981abc8",
+        "epd": {
+          "CED": "-17",
+          "BW": "-6",
+          "WW": 10,
+          "YW": "-14",
+          "RADG": 0,
+          "DMI": 2,
+          "YH": 2,
+          "SC": 0,
+          "Doc": 14,
+          "HP": 4,
+          "CEM": 15,
+          "Milk": 20,
+          "MW": "-2",
+          "MH": 2,
+          "EN": "-9",
+          "CW": 4,
+          "Marb": "-1",
+          "RE": 0,
+          "Fat": 1,
+          "W": 69,
+          "F": 100,
+          "G": 77,
+          "QG": 27,
+          "YG": "-6",
+          "B": "-3"
+        },
+        "genes": [
+          "RRS",
+          "BFN",
+          "KBB",
+          "TAJ",
+          "ZGD"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.85952610972167,
+          42.979008261114906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a6a29f639321a2e325",
+        "index": 13,
+        "guid": "0244648c-096b-43ee-a488-717835e71f80",
+        "isAlive": true,
+        "picture": "https://rawhideio.github.io/site/data/photos/7.png",
+        "age": 27,
+        "eyeColor": "blue",
+        "sex": "female",
+        "company": "QUILK",
+        "phone": "+1 (821) 591-2242",
+        "address": "722 Glendale Court, Russellville, Connecticut, 58397",
+        "notes": [
+          "Lorem cillum aliquip commodo dolor. Ipsum ut mollit cillum nulla exercitation velit laboris qui duis. Incididunt laborum irure sunt exercitation fugiat Lorem. Esse laboris esse aliqua ad enim. In nulla pariatur deserunt veniam laboris adipisicing consequat sint sit tempor ullamco. Enim sit qui reprehenderit labore."
+        ],
+        "registered": "Saturday, July 11, 2015 1:27 PM",
+        "sire": "5b9483a6852e98553cb33354",
+        "dam": "5b9483a6c19671de7309b1cb",
+        "epd": {
+          "CED": 16,
+          "BW": 2,
+          "WW": 93,
+          "YW": 58,
+          "RADG": 1,
+          "DMI": 0,
+          "YH": 1,
+          "SC": 1,
+          "Doc": "-13",
+          "HP": 7,
+          "CEM": "-7",
+          "Milk": 14,
+          "MW": "-68",
+          "MH": "-1",
+          "EN": 27,
+          "CW": 67,
+          "Marb": 2,
+          "RE": 1,
+          "Fat": 0,
+          "W": "-7",
+          "F": 124,
+          "G": "-16",
+          "QG": 33,
+          "YG": "-11",
+          "B": 104
+        },
+        "genes": [
+          "WSN",
+          "QAR",
+          "KBB",
+          "RNK",
+          "RRS"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.6683325194671,
+          44.779083471481464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a6d08d1f772479938f",
+        "index": 14,
+        "guid": "decd2287-719a-485b-b76e-b9b9024703e0",
+        "isAlive": true,
+        "picture": "https://rawhideio.github.io/site/data/photos/3.png",
+        "age": 28,
+        "eyeColor": "green",
+        "sex": "female",
+        "company": "COMTEST",
+        "phone": "+1 (938) 583-2079",
+        "address": "577 Sutton Street, Ellerslie, Wyoming, 59717",
+        "notes": [
+          "Lorem ut ex enim id est cupidatat id amet. Ipsum consectetur officia cillum exercitation do officia officia ut. Eu et qui enim id commodo exercitation dolor qui."
+        ],
+        "registered": "Thursday, July 16, 2015 9:18 PM",
+        "sire": "5b9483a68f45809f2b2f452c",
+        "dam": "5b9483a6d463a0689c2d6f08",
+        "epd": {
+          "CED": "-5",
+          "BW": "-3",
+          "WW": 60,
+          "YW": 170,
+          "RADG": 1,
+          "DMI": 0,
+          "YH": "-1",
+          "SC": 0,
+          "Doc": "-2",
+          "HP": 10,
+          "CEM": 9,
+          "Milk": 20,
+          "MW": 23,
+          "MH": "-1",
+          "EN": "-14",
+          "CW": 84,
+          "Marb": 2,
+          "RE": 1,
+          "Fat": 1,
+          "W": 56,
+          "F": 105,
+          "G": 64,
+          "QG": 57,
+          "YG": 12,
+          "B": 49
+        },
+        "genes": [
+          "IHI",
+          "WSN",
+          "RNK",
+          "WIW",
+          "TTB"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.26514769191962,
+          44.994783969260396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a673724cf76ec4cbae",
+        "index": 15,
+        "guid": "2bd8ff4e-8eb0-4bd7-a27d-7df94b63a6a5",
+        "isAlive": true,
+        "picture": "https://rawhideio.github.io/site/data/photos/4.png",
+        "age": 15,
+        "eyeColor": "blue",
+        "sex": "male",
+        "company": "NETERIA",
+        "phone": "+1 (867) 581-2889",
+        "address": "334 Rewe Street, Kilbourne, Idaho, 56253",
+        "notes": [
+          "Ex veniam cupidatat aliqua nisi laborum aliqua veniam id. Pariatur tempor non aliqua ipsum amet proident sint enim. Sunt velit quis anim proident dolor consequat nostrud. Minim nisi esse incididunt culpa qui ea."
+        ],
+        "registered": "Monday, August 11, 2014 2:50 AM",
+        "sire": "5b9483a622a503757742c291",
+        "dam": "5b9483a616a564e7b2929608",
+        "epd": {
+          "CED": "-2",
+          "BW": 6,
+          "WW": 39,
+          "YW": 76,
+          "RADG": 0,
+          "DMI": 1,
+          "YH": "-1",
+          "SC": 0,
+          "Doc": 37,
+          "HP": 1,
+          "CEM": "-3",
+          "Milk": 23,
+          "MW": "-78",
+          "MH": 0,
+          "EN": 53,
+          "CW": 36,
+          "Marb": 2,
+          "RE": 1,
+          "Fat": 0,
+          "W": 104,
+          "F": 77,
+          "G": 46,
+          "QG": "-6",
+          "YG": 7,
+          "B": "-34"
+        },
+        "genes": [
+          "GWB",
+          "RNK",
+          "QAR",
+          "RPK",
+          "KNW"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.5055425047661,
+          41.52596472951545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a6e54865572fd2e1fc",
+        "index": 16,
+        "guid": "fad53bdf-7fee-4ea8-8355-63308ebe4f83",
+        "isAlive": true,
+        "picture": "https://rawhideio.github.io/site/data/photos/7.png",
+        "age": 11,
+        "eyeColor": "brown",
+        "sex": "male",
+        "company": "CINESANCT",
+        "phone": "+1 (870) 439-2889",
+        "address": "929 Trucklemans Lane, Fillmore, Oregon, 20411",
+        "notes": [
+          "Mollit ut labore velit deserunt in laboris laborum non officia nisi. Consectetur pariatur fugiat aute laboris nulla. Cupidatat duis mollit magna nostrud est Lorem consectetur pariatur est enim. Ullamco nostrud nostrud ex in minim adipisicing laborum minim officia voluptate amet do. Cillum aute amet ad officia. Nulla proident id aliqua eu voluptate pariatur consequat minim cillum in esse velit. Anim ullamco elit in amet laboris et fugiat excepteur."
+        ],
+        "registered": "Wednesday, December 17, 2014 10:11 PM",
+        "sire": "5b9483a62f94b360dc999364",
+        "dam": "5b9483a68214170704c606ef",
+        "epd": {
+          "CED": 0,
+          "BW": 4,
+          "WW": 2,
+          "YW": 139,
+          "RADG": 1,
+          "DMI": "-1",
+          "YH": "-2",
+          "SC": 3,
+          "Doc": "-4",
+          "HP": 16,
+          "CEM": "-8",
+          "Milk": 13,
+          "MW": 32,
+          "MH": "-2",
+          "EN": "-52",
+          "CW": 57,
+          "Marb": 1,
+          "RE": "-1",
+          "Fat": 1,
+          "W": "-12",
+          "F": 38,
+          "G": 1,
+          "QG": 25,
+          "YG": 11,
+          "B": 102
+        },
+        "genes": [
+          "WIW",
+          "ZGD",
+          "IHI",
+          "KNW",
+          "WSN"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.12253710981949,
+          43.84208605784299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a61f198f08420687e8",
+        "index": 17,
+        "guid": "f4083674-e341-4f8b-bd53-743429abe5e8",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/5.png",
+        "age": 3,
+        "eyeColor": "blue",
+        "sex": "male",
+        "company": "ISOSTREAM",
+        "phone": "+1 (997) 466-2433",
+        "address": "145 Fulton Street, Boonville, New Jersey, 69984",
+        "notes": [
+          "Aliqua ullamco labore velit ex reprehenderit nulla est laborum commodo fugiat aliquip sint. Exercitation excepteur nulla ex adipisicing sit eu irure nisi incididunt id sit. Aliquip anim consequat commodo ullamco magna culpa velit ullamco reprehenderit. Pariatur aute laboris non sit quis culpa culpa adipisicing veniam pariatur id commodo. Voluptate nisi reprehenderit laboris non quis consectetur proident id nulla ex sit amet fugiat aute. Dolor consequat mollit ad do eiusmod consequat irure magna. Est eu consectetur est elit sunt."
+        ],
+        "registered": "Sunday, February 19, 2017 10:04 PM",
+        "sire": "5b9483a628436f35e120fdcf",
+        "dam": "5b9483a6e9f89d44fa6c9453",
+        "epd": {
+          "CED": 21,
+          "BW": 10,
+          "WW": 80,
+          "YW": 65,
+          "RADG": 1,
+          "DMI": 0,
+          "YH": 1,
+          "SC": 2,
+          "Doc": 38,
+          "HP": 2,
+          "CEM": 0,
+          "Milk": 25,
+          "MW": 24,
+          "MH": 2,
+          "EN": "-35",
+          "CW": 16,
+          "Marb": 1,
+          "RE": 0,
+          "Fat": 0,
+          "W": 15,
+          "F": "-76",
+          "G": 11,
+          "QG": "-3",
+          "YG": "-5",
+          "B": 122
+        },
+        "genes": [
+          "GWB",
+          "BFN",
+          "RLB",
+          "KNW",
+          "KBB"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.98702128640193,
+          41.646745033207495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a68854101877f4751a",
+        "index": 18,
+        "guid": "afaf7c47-011a-4585-81bb-8c906242c739",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/6.png",
+        "age": 9,
+        "eyeColor": "blue",
+        "sex": "female",
+        "company": "VERTON",
+        "phone": "+1 (830) 499-3911",
+        "address": "593 Willoughby Street, Bluffview, American Samoa, 33296",
+        "notes": [
+          "Culpa ullamco commodo nulla eu. Laborum occaecat dolor Lorem dolor sit aliqua eiusmod ea laboris ipsum nulla do excepteur cillum. Tempor culpa sunt eiusmod Lorem id aute. Ipsum culpa excepteur laborum duis aliquip dolore exercitation officia aliqua. Do consectetur veniam dolor magna. Id ex cupidatat velit ullamco minim."
+        ],
+        "registered": "Friday, June 8, 2018 11:13 PM",
+        "sire": "5b9483a6984fe188a8346034",
+        "dam": "5b9483a6735cd2c63fa92992",
+        "epd": {
+          "CED": 4,
+          "BW": 8,
+          "WW": 23,
+          "YW": 52,
+          "RADG": 1,
+          "DMI": "-2",
+          "YH": 1,
+          "SC": "-1",
+          "Doc": "-14",
+          "HP": 5,
+          "CEM": "-6",
+          "Milk": 36,
+          "MW": "-16",
+          "MH": 1,
+          "EN": "-25",
+          "CW": 30,
+          "Marb": "-1",
+          "RE": 0,
+          "Fat": "-1",
+          "W": 10,
+          "F": "-83",
+          "G": 64,
+          "QG": 25,
+          "YG": "-9",
+          "B": 49
+        },
+        "genes": [
+          "RPA",
+          "RRS",
+          "TTB",
+          "QAR",
+          "RLB"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.48719570178716,
+          41.457570644565806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a6bfaec6b2000f561d",
+        "index": 19,
+        "guid": "a5f84273-80d4-4290-9903-0eb2883ba03e",
+        "isAlive": true,
+        "picture": "https://rawhideio.github.io/site/data/photos/5.png",
+        "age": 0,
+        "eyeColor": "brown",
+        "sex": "female",
+        "company": "APPLICA",
+        "phone": "+1 (950) 508-2590",
+        "address": "100 Heath Place, Talpa, Delaware, 21062",
+        "notes": [
+          "Veniam consequat deserunt proident laborum tempor. Tempor proident cupidatat sunt amet eiusmod velit duis qui cillum nostrud exercitation. Eu nostrud enim excepteur ullamco mollit velit id. Mollit aliquip cillum consequat ipsum dolore ipsum sit eiusmod exercitation cupidatat nulla."
+        ],
+        "registered": "Saturday, March 26, 2016 6:23 AM",
+        "sire": "5b9483a66478e69ecf83b7f8",
+        "dam": "5b9483a654b61563d77946fa",
+        "epd": {
+          "CED": "-16",
+          "BW": 10,
+          "WW": "-2",
+          "YW": 2,
+          "RADG": 0,
+          "DMI": "-1",
+          "YH": 1,
+          "SC": "-2",
+          "Doc": 14,
+          "HP": 20,
+          "CEM": 2,
+          "Milk": 30,
+          "MW": 79,
+          "MH": "-1",
+          "EN": "-28",
+          "CW": 21,
+          "Marb": 2,
+          "RE": "-1",
+          "Fat": "-1",
+          "W": 50,
+          "F": 46,
+          "G": 74,
+          "QG": 58,
+          "YG": "-10",
+          "B": 188
+        },
+        "genes": [
+          "RPA",
+          "UUL",
+          "TAJ",
+          "RPK",
+          "BFN"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.43770104006008,
+          44.698925976503446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a69e226aa6f3839cc0",
+        "index": 20,
+        "guid": "af82f3d6-bc45-4d43-b86f-9a872d7af7f2",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/1.png",
+        "age": 21,
+        "eyeColor": "blue",
+        "sex": "female",
+        "company": "INSURITY",
+        "phone": "+1 (902) 441-3221",
+        "address": "306 Coffey Street, Skyland, Palau, 39570",
+        "notes": [
+          "Nisi eu sit magna culpa labore. Lorem amet ullamco enim voluptate adipisicing sint Lorem mollit ad reprehenderit. Eiusmod ut reprehenderit nulla consequat excepteur ea. Veniam ullamco ut dolor labore in nisi duis id ullamco pariatur voluptate aliquip duis commodo. Ullamco nostrud eu ad dolore. Nostrud amet nisi aliquip duis. Deserunt Lorem aliqua et ut officia Lorem do."
+        ],
+        "registered": "Friday, May 20, 2016 8:58 AM",
+        "sire": "5b9483a6c32be6fac3bf2d64",
+        "dam": "5b9483a689ae9cbe18cf744a",
+        "epd": {
+          "CED": "-11",
+          "BW": 3,
+          "WW": 8,
+          "YW": "-21",
+          "RADG": 0,
+          "DMI": "-1",
+          "YH": "-1",
+          "SC": 2,
+          "Doc": 32,
+          "HP": 13,
+          "CEM": 13,
+          "Milk": 25,
+          "MW": "-4",
+          "MH": 0,
+          "EN": "-46",
+          "CW": 68,
+          "Marb": 0,
+          "RE": 0,
+          "Fat": 0,
+          "W": 28,
+          "F": "-91",
+          "G": "-16",
+          "QG": 1,
+          "YG": 1,
+          "B": 131
+        },
+        "genes": [
+          "BFN",
+          "RRS",
+          "ZGD",
+          "RPK",
+          "TAJ"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.19780999021607,
+          41.24029988228645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a66663f72ff613b351",
+        "index": 21,
+        "guid": "89ebb481-2abb-4e30-8f99-e6d3e3122e9b",
+        "isAlive": true,
+        "picture": "https://rawhideio.github.io/site/data/photos/5.png",
+        "age": 37,
+        "eyeColor": "brown",
+        "sex": "female",
+        "company": "TERAPRENE",
+        "phone": "+1 (999) 547-2484",
+        "address": "751 Royce Place, Limestone, Wisconsin, 51208",
+        "notes": [
+          "Ipsum cillum sint cupidatat ea aliqua irure id esse mollit. Minim sint in consequat anim irure proident dolor. Aliquip culpa duis nostrud nostrud non aliquip deserunt aliquip ea incididunt elit ipsum aute."
+        ],
+        "registered": "Tuesday, August 4, 2015 7:49 AM",
+        "sire": "5b9483a6b562bd7aa0be0f23",
+        "dam": "5b9483a64d803aa508368a2f",
+        "epd": {
+          "CED": 6,
+          "BW": "-4",
+          "WW": "-3",
+          "YW": 183,
+          "RADG": 1,
+          "DMI": "-2",
+          "YH": 1,
+          "SC": 0,
+          "Doc": "-16",
+          "HP": 11,
+          "CEM": "-8",
+          "Milk": 0,
+          "MW": "-10",
+          "MH": "-1",
+          "EN": "-52",
+          "CW": 13,
+          "Marb": 2,
+          "RE": "-1",
+          "Fat": 1,
+          "W": 87,
+          "F": 51,
+          "G": 3,
+          "QG": "-21",
+          "YG": "-2",
+          "B": 124
+        },
+        "genes": [
+          "RPA",
+          "TTB",
+          "WIW",
+          "RNK",
+          "RRS"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.17095007007292,
+          44.00476603375068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a6ebe2e0358459b75d",
+        "index": 22,
+        "guid": "2cde937e-7ed2-43bd-a7ad-dde63f0fe078",
+        "isAlive": true,
+        "picture": "https://rawhideio.github.io/site/data/photos/6.png",
+        "age": 37,
+        "eyeColor": "green",
+        "sex": "female",
+        "company": "NORALEX",
+        "phone": "+1 (984) 522-2831",
+        "address": "538 Gallatin Place, Deseret, Missouri, 58162",
+        "notes": [
+          "Aute aute sint sunt quis non mollit et elit pariatur laborum exercitation. Excepteur reprehenderit consequat tempor aliqua esse eu dolore sit pariatur sunt cupidatat minim est. Proident ex sunt sint amet id incididunt."
+        ],
+        "registered": "Saturday, August 5, 2017 10:34 AM",
+        "sire": "5b9483a6e9c6fbcec6a84007",
+        "dam": "5b9483a618708e284230d6ff",
+        "epd": {
+          "CED": "-8",
+          "BW": 2,
+          "WW": 65,
+          "YW": "-34",
+          "RADG": 0,
+          "DMI": 2,
+          "YH": 2,
+          "SC": 1,
+          "Doc": 23,
+          "HP": 13,
+          "CEM": "-3",
+          "Milk": 11,
+          "MW": 109,
+          "MH": 2,
+          "EN": 7,
+          "CW": 79,
+          "Marb": 1,
+          "RE": 1,
+          "Fat": 0,
+          "W": 72,
+          "F": 173,
+          "G": "-17",
+          "QG": 40,
+          "YG": 3,
+          "B": "-23"
+        },
+        "genes": [
+          "RPK",
+          "KNW",
+          "IHI",
+          "UUL",
+          "WIW"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.77590747461085,
+          41.62403778223304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a6b506d484a20afb30",
+        "index": 23,
+        "guid": "09de97ea-0d4b-40c2-a1fd-b5f8e7c2eab2",
+        "isAlive": true,
+        "picture": "https://rawhideio.github.io/site/data/photos/3.png",
+        "age": 34,
+        "eyeColor": "brown",
+        "sex": "female",
+        "company": "MONDICIL",
+        "phone": "+1 (917) 403-3290",
+        "address": "234 Vandam Street, Lithium, Kansas, 81215",
+        "notes": [
+          "Ex reprehenderit sunt id nulla do aute Lorem. Nulla qui anim nulla tempor laborum eu enim minim. Do nisi minim laborum pariatur officia ut non culpa laborum. Non adipisicing cupidatat duis voluptate nostrud sit. Velit culpa esse amet culpa ex do. Magna tempor et dolore reprehenderit velit magna excepteur laboris fugiat excepteur ullamco ullamco. Aliquip voluptate dolore labore enim cillum reprehenderit proident id."
+        ],
+        "registered": "Wednesday, July 26, 2017 8:03 AM",
+        "sire": "5b9483a63fa10b67dd8e273a",
+        "dam": "5b9483a616bb6b761f55cd04",
+        "epd": {
+          "CED": "-16",
+          "BW": "-1",
+          "WW": 76,
+          "YW": 9,
+          "RADG": 0,
+          "DMI": "-2",
+          "YH": 1,
+          "SC": "-2",
+          "Doc": 19,
+          "HP": 15,
+          "CEM": "-12",
+          "Milk": "-3",
+          "MW": "-56",
+          "MH": "-1",
+          "EN": "-21",
+          "CW": 16,
+          "Marb": "-1",
+          "RE": 1,
+          "Fat": 0,
+          "W": 9,
+          "F": 124,
+          "G": 11,
+          "QG": 1,
+          "YG": 0,
+          "B": 40
+        },
+        "genes": [
+          "ZGD",
+          "BFN",
+          "KBB",
+          "RRS",
+          "RLB"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.02397946260494,
+          41.288449996718064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a61fe305e01fac637d",
+        "index": 24,
+        "guid": "e9be9f51-c2e7-4fdf-a17b-dad1d3042dfe",
+        "isAlive": true,
+        "picture": "https://rawhideio.github.io/site/data/photos/1.png",
+        "age": 12,
+        "eyeColor": "brown",
+        "sex": "male",
+        "company": "ZILENCIO",
+        "phone": "+1 (993) 414-3323",
+        "address": "840 Claver Place, Boyd, Alabama, 85242",
+        "notes": [
+          "Sint deserunt labore ea do proident velit duis duis deserunt nulla nisi. Ullamco cupidatat id sint irure incididunt ut mollit aliqua adipisicing. Do officia laboris dolor mollit."
+        ],
+        "registered": "Sunday, September 2, 2018 12:35 PM",
+        "sire": "5b9483a6d02309366b36f5c9",
+        "dam": "5b9483a6a1667f1432ef3cec",
+        "epd": {
+          "CED": 23,
+          "BW": 1,
+          "WW": 68,
+          "YW": "-31",
+          "RADG": 1,
+          "DMI": 2,
+          "YH": 1,
+          "SC": "-1",
+          "Doc": 1,
+          "HP": 4,
+          "CEM": 8,
+          "Milk": 30,
+          "MW": 59,
+          "MH": "-1",
+          "EN": 55,
+          "CW": "-3",
+          "Marb": 1,
+          "RE": 1,
+          "Fat": 1,
+          "W": 23,
+          "F": 6,
+          "G": 55,
+          "QG": 63,
+          "YG": 5,
+          "B": 145
+        },
+        "genes": [
+          "KNW",
+          "BFN",
+          "WIW",
+          "QAR",
+          "UUL"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.34180310216557,
+          41.755869242856164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a60014f36c29d69015",
+        "index": 25,
+        "guid": "8e0a40fc-0b49-49aa-a13a-0355092673ce",
+        "isAlive": true,
+        "picture": "https://rawhideio.github.io/site/data/photos/2.png",
+        "age": 37,
+        "eyeColor": "blue",
+        "sex": "female",
+        "company": "AMTAS",
+        "phone": "+1 (814) 432-2664",
+        "address": "307 Portal Street, Bartley, Iowa, 61162",
+        "notes": [
+          "Elit ut tempor commodo amet sunt adipisicing consequat voluptate qui adipisicing. Elit aute nostrud nulla Lorem officia qui do aute nulla dolore deserunt nostrud sunt. Ad excepteur eu ipsum commodo anim esse eiusmod. Officia incididunt Lorem ea eu proident sint. Elit quis sunt labore ullamco nulla nisi sint reprehenderit nisi. Mollit minim irure ex quis irure amet ea qui voluptate."
+        ],
+        "registered": "Friday, January 1, 2016 5:06 PM",
+        "sire": "5b9483a630fa83ccd367a38b",
+        "dam": "5b9483a6a041f8d29692ab59",
+        "epd": {
+          "CED": 10,
+          "BW": 5,
+          "WW": 72,
+          "YW": 119,
+          "RADG": 0,
+          "DMI": "-2",
+          "YH": 0,
+          "SC": "-1",
+          "Doc": "-3",
+          "HP": 16,
+          "CEM": 17,
+          "Milk": 14,
+          "MW": "-36",
+          "MH": 0,
+          "EN": "-2",
+          "CW": 26,
+          "Marb": 2,
+          "RE": "-1",
+          "Fat": 0,
+          "W": 64,
+          "F": 202,
+          "G": "-12",
+          "QG": 26,
+          "YG": "-4",
+          "B": 239
+        },
+        "genes": [
+          "RRS",
+          "RLB",
+          "TTB",
+          "TAJ",
+          "RNK"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.87409946645214,
+          41.50776756572587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a6015e19303ec744f8",
+        "index": 26,
+        "guid": "184b2995-1fba-4d27-9850-bacd6fc3cb98",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/4.png",
+        "age": 0,
+        "eyeColor": "green",
+        "sex": "female",
+        "company": "STREZZO",
+        "phone": "+1 (918) 494-3930",
+        "address": "245 Cherry Street, Coalmont, Ohio, 87204",
+        "notes": [
+          "Laboris non fugiat nisi anim enim ipsum adipisicing sint. Voluptate cupidatat laboris aute in occaecat commodo nulla cupidatat eu excepteur cupidatat in. Ad laborum culpa nisi eu officia. Aute laboris excepteur magna ut nostrud sunt ad laboris veniam qui deserunt. Laboris aliqua labore do id non."
+        ],
+        "registered": "Monday, July 27, 2015 2:56 PM",
+        "sire": "5b9483a6831362f8b8b78b36",
+        "dam": "5b9483a68ab9acfaab63ba3d",
+        "epd": {
+          "CED": "-17",
+          "BW": 1,
+          "WW": 46,
+          "YW": 39,
+          "RADG": 1,
+          "DMI": "-2",
+          "YH": "-1",
+          "SC": "-2",
+          "Doc": 25,
+          "HP": "-2",
+          "CEM": "-2",
+          "Milk": 30,
+          "MW": 89,
+          "MH": "-1",
+          "EN": 6,
+          "CW": 1,
+          "Marb": 0,
+          "RE": "-1",
+          "Fat": 0,
+          "W": 58,
+          "F": 73,
+          "G": 32,
+          "QG": "-20",
+          "YG": "-15",
+          "B": 207
+        },
+        "genes": [
+          "UUL",
+          "RPA",
+          "TTB",
+          "IHI",
+          "RNK"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.77347082375793,
+          44.56878015467119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a62ef6db2492745ae5",
+        "index": 27,
+        "guid": "04a2cc82-4422-413e-87e3-f7f37c1a7bc1",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/7.png",
+        "age": 9,
+        "eyeColor": "blue",
+        "sex": "female",
+        "company": "PAPRIKUT",
+        "phone": "+1 (802) 552-2236",
+        "address": "304 Nixon Court, Crawfordsville, Louisiana, 73143",
+        "notes": [
+          "Commodo reprehenderit proident adipisicing in ad eiusmod. Excepteur dolor incididunt aliquip minim eu consectetur esse cillum adipisicing ea magna tempor ut cupidatat. Cupidatat laboris ipsum ullamco tempor elit proident. Incididunt exercitation voluptate ut laborum ea incididunt ea esse. Elit aute velit irure consectetur. Ipsum nulla est exercitation aliqua elit veniam in duis voluptate aute ut consequat."
+        ],
+        "registered": "Friday, February 20, 2015 3:46 AM",
+        "sire": "5b9483a641003d717d996ee5",
+        "dam": "5b9483a663a957cc9e476f62",
+        "epd": {
+          "CED": 9,
+          "BW": 10,
+          "WW": 46,
+          "YW": 53,
+          "RADG": "-1",
+          "DMI": "-2",
+          "YH": "-1",
+          "SC": "-1",
+          "Doc": "-12",
+          "HP": 12,
+          "CEM": "-6",
+          "Milk": 3,
+          "MW": "-15",
+          "MH": 1,
+          "EN": 65,
+          "CW": 77,
+          "Marb": 1,
+          "RE": "-1",
+          "Fat": 0,
+          "W": 102,
+          "F": 108,
+          "G": 59,
+          "QG": 66,
+          "YG": 8,
+          "B": 59
+        },
+        "genes": [
+          "TAJ",
+          "IHI",
+          "QAR",
+          "KBB",
+          "TTB"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.74245777730701,
+          43.57779736444487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a6ac16738cb6e50a02",
+        "index": 28,
+        "guid": "dad22d4e-1f62-47f5-b5c0-1a53696d9f69",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/7.png",
+        "age": 37,
+        "eyeColor": "green",
+        "sex": "female",
+        "company": "PYRAMIA",
+        "phone": "+1 (907) 592-2284",
+        "address": "435 Harden Street, Verdi, Indiana, 30392",
+        "notes": [
+          "Lorem labore reprehenderit sunt voluptate. Aute officia esse nostrud magna nostrud laboris ad culpa tempor exercitation consectetur ipsum amet. Laboris qui culpa nostrud consequat sunt voluptate exercitation id cupidatat cillum do nisi anim incididunt. Laborum voluptate eiusmod sit non."
+        ],
+        "registered": "Wednesday, March 1, 2017 7:18 PM",
+        "sire": "5b9483a687dbe0543b279cc1",
+        "dam": "5b9483a600aa651c34bd3d09",
+        "epd": {
+          "CED": "-8",
+          "BW": "-7",
+          "WW": "-15",
+          "YW": "-3",
+          "RADG": 1,
+          "DMI": 2,
+          "YH": 0,
+          "SC": "-2",
+          "Doc": "-5",
+          "HP": 5,
+          "CEM": 5,
+          "Milk": 30,
+          "MW": 48,
+          "MH": 1,
+          "EN": 57,
+          "CW": 47,
+          "Marb": 2,
+          "RE": 0,
+          "Fat": 0,
+          "W": "-10",
+          "F": 46,
+          "G": 36,
+          "QG": 40,
+          "YG": "-7",
+          "B": 121
+        },
+        "genes": [
+          "QAR",
+          "WIW",
+          "TAJ",
+          "KBB",
+          "KNW"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.89816342282543,
+          42.80979005535356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a63d2ca4e318224cf5",
+        "index": 29,
+        "guid": "61fca310-4aa0-4803-8865-82e8df5f9f5b",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/1.png",
+        "age": 18,
+        "eyeColor": "blue",
+        "sex": "male",
+        "company": "SUNCLIPSE",
+        "phone": "+1 (970) 535-2318",
+        "address": "533 Forrest Street, Jugtown, Kentucky, 76443",
+        "notes": [
+          "Est consequat do proident consectetur ex deserunt do sunt. Amet et duis pariatur et voluptate. Aliqua ipsum consequat nisi laboris adipisicing labore tempor aute do minim aliquip. Dolore proident veniam sit occaecat qui amet duis commodo."
+        ],
+        "registered": "Monday, May 15, 2017 11:55 AM",
+        "sire": "5b9483a65ce17ea9bce0028d",
+        "dam": "5b9483a623030579666fca19",
+        "epd": {
+          "CED": 15,
+          "BW": 6,
+          "WW": 36,
+          "YW": 1,
+          "RADG": 0,
+          "DMI": 0,
+          "YH": 1,
+          "SC": 1,
+          "Doc": 19,
+          "HP": 5,
+          "CEM": 16,
+          "Milk": 23,
+          "MW": 90,
+          "MH": 2,
+          "EN": 21,
+          "CW": "-5",
+          "Marb": 0,
+          "RE": 1,
+          "Fat": "-1",
+          "W": 98,
+          "F": 47,
+          "G": 59,
+          "QG": 43,
+          "YG": "-10",
+          "B": 156
+        },
+        "genes": [
+          "KNW",
+          "BFN",
+          "ZGD",
+          "RLB",
+          "UUL"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.21597397686257,
+          44.75333560082356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a6babb9f2125af7fb9",
+        "index": 30,
+        "guid": "d990a1da-8085-42ae-a76f-a0ff44043509",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/3.png",
+        "age": 33,
+        "eyeColor": "brown",
+        "sex": "male",
+        "company": "COFINE",
+        "phone": "+1 (929) 571-2940",
+        "address": "485 Benson Avenue, Century, Arkansas, 83509",
+        "notes": [
+          "Amet culpa quis proident duis ea nostrud. Officia minim velit officia ipsum Lorem nostrud velit eiusmod veniam. Voluptate elit ad aliquip officia elit incididunt et qui. Dolore culpa quis nisi deserunt consequat dolore pariatur voluptate enim sint id. Esse aute mollit voluptate veniam consequat proident et Lorem occaecat elit veniam deserunt deserunt proident. Nisi fugiat laboris minim in sit proident officia."
+        ],
+        "registered": "Monday, May 2, 2016 12:56 PM",
+        "sire": "5b9483a62b0f5fe8f005f624",
+        "dam": "5b9483a6e9eeaabe6ca6dae9",
+        "epd": {
+          "CED": "-1",
+          "BW": 1,
+          "WW": 13,
+          "YW": 8,
+          "RADG": 1,
+          "DMI": "-1",
+          "YH": 1,
+          "SC": 2,
+          "Doc": 27,
+          "HP": 12,
+          "CEM": 11,
+          "Milk": 40,
+          "MW": "-3",
+          "MH": 1,
+          "EN": 4,
+          "CW": "-18",
+          "Marb": 1,
+          "RE": 1,
+          "Fat": "-1",
+          "W": 92,
+          "F": "-89",
+          "G": "-13",
+          "QG": 71,
+          "YG": 4,
+          "B": 187
+        },
+        "genes": [
+          "RRS",
+          "RPA",
+          "RPK",
+          "RLB",
+          "BFN"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.08431442613778,
+          41.67175328443719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a6c4bd6ff462d1b810",
+        "index": 31,
+        "guid": "0e98f02d-b2e1-4343-bddb-d8ff32c67e53",
+        "isAlive": true,
+        "picture": "https://rawhideio.github.io/site/data/photos/5.png",
+        "age": 23,
+        "eyeColor": "blue",
+        "sex": "male",
+        "company": "GYNK",
+        "phone": "+1 (959) 430-3500",
+        "address": "764 Ebony Court, Topanga, Washington, 75515",
+        "notes": [
+          "Ea ipsum ea veniam adipisicing officia et nostrud in reprehenderit minim amet. Sit id ex eu sit voluptate excepteur exercitation sint et aliqua. Ut eiusmod id id non incididunt in magna."
+        ],
+        "registered": "Saturday, November 22, 2014 3:30 AM",
+        "sire": "5b9483a646ca0088250fee79",
+        "dam": "5b9483a69f0163776202e0a4",
+        "epd": {
+          "CED": "-5",
+          "BW": 2,
+          "WW": 0,
+          "YW": 87,
+          "RADG": 0,
+          "DMI": 1,
+          "YH": "-1",
+          "SC": 0,
+          "Doc": "-16",
+          "HP": 13,
+          "CEM": 3,
+          "Milk": 35,
+          "MW": 100,
+          "MH": 1,
+          "EN": "-25",
+          "CW": "-19",
+          "Marb": 2,
+          "RE": 0,
+          "Fat": 0,
+          "W": 37,
+          "F": "-76",
+          "G": 30,
+          "QG": "-2",
+          "YG": "-13",
+          "B": 59
+        },
+        "genes": [
+          "RPA",
+          "WSN",
+          "ZGD",
+          "RRS",
+          "TAJ"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.09026153651993,
+          41.216595876690285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a6bbb4d2c63c3be658",
+        "index": 32,
+        "guid": "a1ccc1fb-fdc2-4113-9a00-067c13a030cd",
+        "isAlive": true,
+        "picture": "https://rawhideio.github.io/site/data/photos/7.png",
+        "age": 12,
+        "eyeColor": "brown",
+        "sex": "male",
+        "company": "MYOPIUM",
+        "phone": "+1 (852) 527-2716",
+        "address": "987 Boulevard Court, Chelsea, New York, 99850",
+        "notes": [
+          "Fugiat aliquip excepteur fugiat quis exercitation non anim exercitation non aliquip commodo. Cupidatat ipsum qui anim proident excepteur dolor irure. Nisi enim eu amet minim fugiat ad occaecat ex ex sint commodo. Incididunt incididunt laborum ullamco laborum aute dolor laborum nisi in veniam elit dolore aliquip incididunt."
+        ],
+        "registered": "Saturday, March 24, 2018 6:42 PM",
+        "sire": "5b9483a6b9399fe332bf09aa",
+        "dam": "5b9483a65f24d524df92faf8",
+        "epd": {
+          "CED": 15,
+          "BW": "-5",
+          "WW": 95,
+          "YW": 65,
+          "RADG": 1,
+          "DMI": 0,
+          "YH": 0,
+          "SC": 3,
+          "Doc": "-13",
+          "HP": 13,
+          "CEM": 12,
+          "Milk": 48,
+          "MW": 97,
+          "MH": 0,
+          "EN": "-6",
+          "CW": 79,
+          "Marb": "-1",
+          "RE": 1,
+          "Fat": 1,
+          "W": 16,
+          "F": 31,
+          "G": 0,
+          "QG": 59,
+          "YG": "-5",
+          "B": 154
+        },
+        "genes": [
+          "RPA",
+          "KBB",
+          "RLB",
+          "RPK",
+          "WSN"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.78959933193258,
+          44.29690421241807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a61410e9bc872c1094",
+        "index": 33,
+        "guid": "1a333a29-ef65-47f9-b24b-23c1ecf2af99",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/6.png",
+        "age": 40,
+        "eyeColor": "green",
+        "sex": "male",
+        "company": "GOKO",
+        "phone": "+1 (912) 569-2177",
+        "address": "910 Hale Avenue, Cleary, South Dakota, 59101",
+        "notes": [
+          "Non nisi consectetur sit ex quis cillum pariatur id pariatur eiusmod consequat fugiat. Deserunt ipsum consequat laborum minim proident. Consectetur qui magna est non esse pariatur labore et do aliquip. Eu magna culpa officia ex duis labore in laboris."
+        ],
+        "registered": "Friday, June 30, 2017 10:11 PM",
+        "sire": "5b9483a6ce2d8b97ffd96313",
+        "dam": "5b9483a660dc3c1fd9c13cbc",
+        "epd": {
+          "CED": 18,
+          "BW": "-1",
+          "WW": 25,
+          "YW": 180,
+          "RADG": 0,
+          "DMI": 0,
+          "YH": 0,
+          "SC": 3,
+          "Doc": "-21",
+          "HP": 3,
+          "CEM": 20,
+          "Milk": 23,
+          "MW": 27,
+          "MH": 0,
+          "EN": 13,
+          "CW": 21,
+          "Marb": 2,
+          "RE": "-1",
+          "Fat": 0,
+          "W": 10,
+          "F": "-73",
+          "G": 33,
+          "QG": 61,
+          "YG": 7,
+          "B": 202
+        },
+        "genes": [
+          "TAJ",
+          "KBB",
+          "UUL",
+          "TTB",
+          "IHI"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.55108040474346,
+          44.68299261736206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a6a687432e41ced3eb",
+        "index": 34,
+        "guid": "5d6b0414-8102-4471-9405-5ffc69793cd3",
+        "isAlive": true,
+        "picture": "https://rawhideio.github.io/site/data/photos/6.png",
+        "age": 30,
+        "eyeColor": "brown",
+        "sex": "male",
+        "company": "QUOTEZART",
+        "phone": "+1 (958) 495-3739",
+        "address": "502 Rose Street, Tyro, Texas, 49674",
+        "notes": [
+          "Qui esse est eiusmod laborum proident magna occaecat exercitation proident. Consectetur consectetur eu non eu ea. Mollit reprehenderit id laboris consectetur laborum culpa proident amet. Do aliqua in reprehenderit officia officia laborum eu adipisicing dolore quis qui labore. Dolore cupidatat dolore dolore ullamco ea reprehenderit. Ea qui qui do eiusmod incididunt quis nisi. Mollit eiusmod est ipsum nisi cupidatat enim sit non ut consectetur mollit enim cillum duis."
+        ],
+        "registered": "Wednesday, February 1, 2017 11:26 PM",
+        "sire": "5b9483a671d0600b81597e15",
+        "dam": "5b9483a669f2ad4d63823800",
+        "epd": {
+          "CED": "-14",
+          "BW": "-5",
+          "WW": "-5",
+          "YW": 141,
+          "RADG": 1,
+          "DMI": "-2",
+          "YH": 1,
+          "SC": 2,
+          "Doc": 10,
+          "HP": 0,
+          "CEM": "-2",
+          "Milk": 29,
+          "MW": "-62",
+          "MH": "-2",
+          "EN": 58,
+          "CW": 69,
+          "Marb": 1,
+          "RE": 0,
+          "Fat": 0,
+          "W": 36,
+          "F": 83,
+          "G": 10,
+          "QG": "-7",
+          "YG": 5,
+          "B": "-40"
+        },
+        "genes": [
+          "RRS",
+          "KNW",
+          "UUL",
+          "RPK",
+          "GWB"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.59828410583711,
+          44.65158550956349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a620c14d71fe1e6aa3",
+        "index": 35,
+        "guid": "78c6aafc-0e72-492c-97cc-81a765e9ad8f",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/1.png",
+        "age": 31,
+        "eyeColor": "brown",
+        "sex": "male",
+        "company": "ZAJ",
+        "phone": "+1 (815) 502-3339",
+        "address": "614 Eldert Street, Wilsonia, District Of Columbia, 52056",
+        "notes": [
+          "In eu ea aliquip dolor mollit aliqua. Consectetur deserunt laborum commodo eiusmod. Ad ipsum adipisicing ad magna commodo irure aute voluptate proident nulla reprehenderit sit ipsum veniam. Duis tempor ipsum Lorem cupidatat tempor ad labore fugiat exercitation occaecat ipsum reprehenderit tempor non."
+        ],
+        "registered": "Friday, August 29, 2014 12:03 PM",
+        "sire": "5b9483a6cb83adc04a8583e8",
+        "dam": "5b9483a6a87ad1e4d21dce15",
+        "epd": {
+          "CED": 12,
+          "BW": 9,
+          "WW": 9,
+          "YW": 27,
+          "RADG": 1,
+          "DMI": 1,
+          "YH": 1,
+          "SC": 2,
+          "Doc": 6,
+          "HP": "-1",
+          "CEM": 12,
+          "Milk": 18,
+          "MW": "-43",
+          "MH": "-1",
+          "EN": 36,
+          "CW": 21,
+          "Marb": 0,
+          "RE": "-1",
+          "Fat": 0,
+          "W": 43,
+          "F": 34,
+          "G": "-12",
+          "QG": 58,
+          "YG": 8,
+          "B": 158
+        },
+        "genes": [
+          "KNW",
+          "BFN",
+          "WIW",
+          "UUL",
+          "GWB"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.29950359690599,
+          43.76974210242552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a6724be615a4bec4a8",
+        "index": 36,
+        "guid": "ae043210-3217-47ef-a895-58cc261e9fc6",
+        "isAlive": true,
+        "picture": "https://rawhideio.github.io/site/data/photos/6.png",
+        "age": 25,
+        "eyeColor": "brown",
+        "sex": "female",
+        "company": "COMCUR",
+        "phone": "+1 (962) 413-3312",
+        "address": "201 Sackman Street, Reno, North Carolina, 61701",
+        "notes": [
+          "Anim non laborum excepteur velit et non ullamco culpa. Ex deserunt ex eu adipisicing. Sint excepteur officia ullamco ea ut esse occaecat ad proident minim ipsum voluptate. Lorem excepteur sit est anim Lorem."
+        ],
+        "registered": "Tuesday, March 24, 2015 3:22 PM",
+        "sire": "5b9483a66038d868f609b8d4",
+        "dam": "5b9483a6953ee7e109a3abb1",
+        "epd": {
+          "CED": "-17",
+          "BW": 6,
+          "WW": 59,
+          "YW": 26,
+          "RADG": 0,
+          "DMI": 1,
+          "YH": "-1",
+          "SC": 3,
+          "Doc": 1,
+          "HP": 6,
+          "CEM": 3,
+          "Milk": 14,
+          "MW": 61,
+          "MH": 2,
+          "EN": 38,
+          "CW": "-6",
+          "Marb": 0,
+          "RE": "-1",
+          "Fat": 1,
+          "W": 19,
+          "F": 6,
+          "G": "-19",
+          "QG": 26,
+          "YG": 2,
+          "B": 134
+        },
+        "genes": [
+          "UUL",
+          "ZGD",
+          "RNK",
+          "TAJ",
+          "RLB"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.82407218295135,
+          41.405946671985674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a6f3ed29720f94e488",
+        "index": 37,
+        "guid": "36e38d0d-c0b1-42a2-a56d-583d9f89bc34",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/2.png",
+        "age": 20,
+        "eyeColor": "blue",
+        "sex": "female",
+        "company": "PLUTORQUE",
+        "phone": "+1 (803) 571-3505",
+        "address": "759 Humboldt Street, Emory, Vermont, 36302",
+        "notes": [
+          "Ut exercitation ad elit eu ullamco aliquip. Aute fugiat exercitation laborum ea pariatur labore sint. Nisi reprehenderit deserunt enim non labore esse. Duis ex ea deserunt sunt dolore laborum. Laboris fugiat esse officia eu qui veniam."
+        ],
+        "registered": "Friday, September 11, 2015 1:41 PM",
+        "sire": "5b9483a6dc7ec87b9de7a6aa",
+        "dam": "5b9483a6d02e676df6e231f7",
+        "epd": {
+          "CED": 14,
+          "BW": "-4",
+          "WW": 9,
+          "YW": 4,
+          "RADG": 0,
+          "DMI": 0,
+          "YH": 2,
+          "SC": 3,
+          "Doc": 41,
+          "HP": 3,
+          "CEM": 3,
+          "Milk": 25,
+          "MW": "-11",
+          "MH": 2,
+          "EN": "-12",
+          "CW": "-22",
+          "Marb": "-1",
+          "RE": 1,
+          "Fat": 0,
+          "W": 69,
+          "F": "-30",
+          "G": 76,
+          "QG": 50,
+          "YG": "-7",
+          "B": 147
+        },
+        "genes": [
+          "KNW",
+          "RLB",
+          "QAR",
+          "GWB",
+          "TTB"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.22777782004005,
+          43.378584763330856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a672e9f47efb041fb9",
+        "index": 38,
+        "guid": "a1256d44-be0a-47d3-b00e-a05c95c32065",
+        "isAlive": true,
+        "picture": "https://rawhideio.github.io/site/data/photos/7.png",
+        "age": 6,
+        "eyeColor": "brown",
+        "sex": "female",
+        "company": "EQUITAX",
+        "phone": "+1 (951) 577-2703",
+        "address": "884 Goodwin Place, Suitland, Nevada, 18739",
+        "notes": [
+          "Ea ea labore excepteur sint. Esse incididunt dolor cupidatat occaecat ullamco pariatur voluptate laboris duis voluptate adipisicing sunt. Nisi proident aliqua et dolor labore."
+        ],
+        "registered": "Saturday, March 31, 2018 9:26 PM",
+        "sire": "5b9483a64f4fa7e516fac7a6",
+        "dam": "5b9483a6b05fac5a7054a11e",
+        "epd": {
+          "CED": 17,
+          "BW": "-5",
+          "WW": "-6",
+          "YW": "-20",
+          "RADG": 0,
+          "DMI": 2,
+          "YH": 2,
+          "SC": 2,
+          "Doc": 4,
+          "HP": 6,
+          "CEM": "-1",
+          "Milk": 5,
+          "MW": "-71",
+          "MH": 2,
+          "EN": "-50",
+          "CW": "-3",
+          "Marb": 1,
+          "RE": "-1",
+          "Fat": 1,
+          "W": "-21",
+          "F": 49,
+          "G": 24,
+          "QG": "-20",
+          "YG": "-15",
+          "B": 80
+        },
+        "genes": [
+          "RLB",
+          "QAR",
+          "RRS",
+          "WIW",
+          "TAJ"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.1492412075367,
+          42.87082027279213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a6d441aa4a5bf78cd9",
+        "index": 39,
+        "guid": "7b312190-2c8a-4719-a026-782131ae732a",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/2.png",
+        "age": 23,
+        "eyeColor": "brown",
+        "sex": "male",
+        "company": "EDECINE",
+        "phone": "+1 (897) 551-2850",
+        "address": "210 Ditmas Avenue, Mapletown, Tennessee, 13976",
+        "notes": [
+          "Occaecat labore ad ipsum ad eiusmod ut dolore officia. Duis tempor nisi magna aliqua qui officia sint sit ipsum. Voluptate deserunt in laboris dolore exercitation anim labore est incididunt do est dolore. Elit dolor et incididunt qui commodo voluptate consequat labore reprehenderit pariatur magna velit pariatur. Ea enim veniam cupidatat ipsum labore ullamco ut officia quis. Occaecat dolore anim culpa laboris laborum reprehenderit anim magna sint incididunt eu laborum qui ad."
+        ],
+        "registered": "Wednesday, November 12, 2014 3:47 PM",
+        "sire": "5b9483a64cfeff0442481db6",
+        "dam": "5b9483a6e0d478b4600b0fe8",
+        "epd": {
+          "CED": 16,
+          "BW": 3,
+          "WW": 76,
+          "YW": 168,
+          "RADG": 0,
+          "DMI": 1,
+          "YH": "-1",
+          "SC": 2,
+          "Doc": 39,
+          "HP": 9,
+          "CEM": 8,
+          "Milk": 20,
+          "MW": 55,
+          "MH": "-2",
+          "EN": 45,
+          "CW": "-38",
+          "Marb": 0,
+          "RE": 0,
+          "Fat": 0,
+          "W": "-11",
+          "F": 50,
+          "G": 63,
+          "QG": 17,
+          "YG": 14,
+          "B": 210
+        },
+        "genes": [
+          "KNW",
+          "UUL",
+          "ZGD",
+          "TTB",
+          "QAR"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.08434782132022,
+          42.062973717926674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a64cd40f1bacf2d090",
+        "index": 40,
+        "guid": "d3580156-d78e-453a-b510-226d8edd6adc",
+        "isAlive": true,
+        "picture": "https://rawhideio.github.io/site/data/photos/6.png",
+        "age": 24,
+        "eyeColor": "blue",
+        "sex": "male",
+        "company": "ZILLAR",
+        "phone": "+1 (891) 455-3724",
+        "address": "240 Middagh Street, Biddle, South Carolina, 99533",
+        "notes": [
+          "Pariatur reprehenderit occaecat excepteur in aliqua anim adipisicing ullamco id. In duis sunt deserunt ullamco dolor irure. Consectetur fugiat consectetur ullamco velit culpa sint cupidatat sint reprehenderit pariatur officia aliquip ea. Proident in reprehenderit excepteur ut laboris sit duis cillum tempor ut reprehenderit. Eu dolor cillum ad proident ad id excepteur elit velit duis anim cillum officia. Proident nostrud magna exercitation commodo sunt amet consectetur est excepteur. Non eiusmod in qui officia sunt dolor."
+        ],
+        "registered": "Saturday, January 24, 2015 9:04 AM",
+        "sire": "5b9483a6cf9ff9c2b104b405",
+        "dam": "5b9483a610a70b4ab3ec8159",
+        "epd": {
+          "CED": 12,
+          "BW": 3,
+          "WW": 15,
+          "YW": 23,
+          "RADG": 0,
+          "DMI": "-2",
+          "YH": 0,
+          "SC": 1,
+          "Doc": 9,
+          "HP": 13,
+          "CEM": 12,
+          "Milk": 11,
+          "MW": 110,
+          "MH": 1,
+          "EN": "-8",
+          "CW": 71,
+          "Marb": 1,
+          "RE": "-1",
+          "Fat": 0,
+          "W": 108,
+          "F": 198,
+          "G": 4,
+          "QG": 42,
+          "YG": 14,
+          "B": 67
+        },
+        "genes": [
+          "RNK",
+          "ZGD",
+          "BFN",
+          "TAJ",
+          "KNW"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.09714816689042,
+          42.60875213284089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a616779f3cf01de75b",
+        "index": 41,
+        "guid": "93eee87f-ee87-44f5-820d-4cc87c90753b",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/1.png",
+        "age": 8,
+        "eyeColor": "blue",
+        "sex": "male",
+        "company": "EARGO",
+        "phone": "+1 (985) 555-3356",
+        "address": "675 Lenox Road, Lacomb, Pennsylvania, 61051",
+        "notes": [
+          "Ut et laboris occaecat cillum Lorem dolore ea. Nostrud officia laborum minim nulla in esse labore laborum dolore ad exercitation culpa deserunt. Officia ullamco nisi sunt ad ad mollit occaecat non."
+        ],
+        "registered": "Wednesday, August 27, 2014 12:34 PM",
+        "sire": "5b9483a679cbed487060a1fb",
+        "dam": "5b9483a631807fead0bae238",
+        "epd": {
+          "CED": 23,
+          "BW": "-2",
+          "WW": 12,
+          "YW": 11,
+          "RADG": 0,
+          "DMI": 2,
+          "YH": "-2",
+          "SC": "-1",
+          "Doc": "-18",
+          "HP": "-2",
+          "CEM": 4,
+          "Milk": 29,
+          "MW": 16,
+          "MH": 0,
+          "EN": 15,
+          "CW": 47,
+          "Marb": 0,
+          "RE": 0,
+          "Fat": "-1",
+          "W": 25,
+          "F": 61,
+          "G": "-7",
+          "QG": 29,
+          "YG": "-8",
+          "B": 25
+        },
+        "genes": [
+          "KNW",
+          "TAJ",
+          "RPK",
+          "BFN",
+          "RRS"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.31338943290027,
+          42.47439062199098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a6b280014ec2fef150",
+        "index": 42,
+        "guid": "8d01bfbe-5704-4040-96cd-b66796fd3333",
+        "isAlive": true,
+        "picture": "https://rawhideio.github.io/site/data/photos/1.png",
+        "age": 8,
+        "eyeColor": "green",
+        "sex": "female",
+        "company": "SPLINX",
+        "phone": "+1 (921) 595-3065",
+        "address": "774 Ryerson Street, Sisquoc, Virgin Islands, 19147",
+        "notes": [
+          "Quis elit esse ipsum qui esse proident ad et. Magna sint minim commodo magna Lorem sint elit magna dolore veniam. Anim non labore aliquip tempor elit id esse laborum qui aliqua labore anim. Lorem proident cupidatat incididunt proident ullamco voluptate Lorem cillum exercitation."
+        ],
+        "registered": "Sunday, August 14, 2016 3:08 AM",
+        "sire": "5b9483a63f87ee96ecc784ee",
+        "dam": "5b9483a6848cda8ff2450f2d",
+        "epd": {
+          "CED": "-8",
+          "BW": 8,
+          "WW": "-4",
+          "YW": 185,
+          "RADG": 0,
+          "DMI": "-2",
+          "YH": 1,
+          "SC": 2,
+          "Doc": "-10",
+          "HP": 14,
+          "CEM": 6,
+          "Milk": 39,
+          "MW": 24,
+          "MH": 0,
+          "EN": "-32",
+          "CW": 22,
+          "Marb": 2,
+          "RE": 2,
+          "Fat": 0,
+          "W": 67,
+          "F": "-23",
+          "G": 3,
+          "QG": 34,
+          "YG": 4,
+          "B": 211
+        },
+        "genes": [
+          "WSN",
+          "WIW",
+          "KBB",
+          "BFN",
+          "RRS"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.55718762684764,
+          41.86795158841176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a6b7db0a84b6559572",
+        "index": 43,
+        "guid": "b2fbf724-2111-4dc8-8c2e-2690904d08da",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/7.png",
+        "age": 10,
+        "eyeColor": "green",
+        "sex": "female",
+        "company": "FREAKIN",
+        "phone": "+1 (995) 507-2848",
+        "address": "418 Times Placez, Kansas, Montana, 56873",
+        "notes": [
+          "Dolor proident nulla consectetur laborum in laboris duis pariatur amet reprehenderit. In dolore sint ad voluptate reprehenderit ullamco sunt labore laboris enim duis. Deserunt cillum proident velit ipsum Lorem ea ad. Culpa exercitation ad Lorem dolore mollit culpa adipisicing non in nulla. Dolore ipsum incididunt velit ipsum mollit et elit dolore culpa. Minim ullamco labore laboris Lorem aute excepteur anim."
+        ],
+        "registered": "Friday, June 22, 2018 6:58 AM",
+        "sire": "5b9483a6fa24668243b8f950",
+        "dam": "5b9483a66142e77e569ba803",
+        "epd": {
+          "CED": "-7",
+          "BW": 0,
+          "WW": 50,
+          "YW": 59,
+          "RADG": 0,
+          "DMI": "-1",
+          "YH": "-2",
+          "SC": 2,
+          "Doc": 2,
+          "HP": 16,
+          "CEM": "-3",
+          "Milk": 4,
+          "MW": 3,
+          "MH": 1,
+          "EN": "-48",
+          "CW": 9,
+          "Marb": 1,
+          "RE": 1,
+          "Fat": "-1",
+          "W": "-26",
+          "F": "-29",
+          "G": 54,
+          "QG": 44,
+          "YG": "-2",
+          "B": 148
+        },
+        "genes": [
+          "RPA",
+          "KNW",
+          "RLB",
+          "WSN",
+          "IHI"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.5301869320441,
+          44.93928593202122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a6cbdbb625dd8c7126",
+        "index": 44,
+        "guid": "8d0223c5-ab61-4509-aa24-a72a90224cdc",
+        "isAlive": true,
+        "picture": "https://rawhideio.github.io/site/data/photos/5.png",
+        "age": 24,
+        "eyeColor": "green",
+        "sex": "female",
+        "company": "MANUFACT",
+        "phone": "+1 (990) 445-3880",
+        "address": "712 Luquer Street, Lisco, Illinois, 25763",
+        "notes": [
+          "Occaecat qui fugiat irure consequat. Qui sit nostrud quis non reprehenderit exercitation cillum dolor deserunt pariatur fugiat eu sunt id. Est aliquip sit Lorem duis reprehenderit consequat tempor ipsum amet nostrud eiusmod Lorem dolor dolore. Id veniam aliqua culpa veniam fugiat proident officia aliquip laborum ex tempor anim. Nostrud pariatur laborum aliqua mollit reprehenderit quis officia dolor magna aute fugiat sint."
+        ],
+        "registered": "Thursday, May 4, 2017 3:05 PM",
+        "sire": "5b9483a6fe878f389597f0e0",
+        "dam": "5b9483a666abbcfd18d97d49",
+        "epd": {
+          "CED": 4,
+          "BW": 7,
+          "WW": 20,
+          "YW": 88,
+          "RADG": 0,
+          "DMI": 0,
+          "YH": 0,
+          "SC": 1,
+          "Doc": 17,
+          "HP": 1,
+          "CEM": "-5",
+          "Milk": 28,
+          "MW": "-21",
+          "MH": 1,
+          "EN": 52,
+          "CW": 84,
+          "Marb": 1,
+          "RE": "-1",
+          "Fat": 0,
+          "W": "-27",
+          "F": "-61",
+          "G": 36,
+          "QG": 19,
+          "YG": "-10",
+          "B": 143
+        },
+        "genes": [
+          "IHI",
+          "BFN",
+          "RNK",
+          "TTB",
+          "TAJ"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.79210462537137,
+          43.915990189665834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a649b6e5637856cf25",
+        "index": 45,
+        "guid": "47b3537e-524f-4273-82f3-3d6fde0f9a01",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/6.png",
+        "age": 27,
+        "eyeColor": "green",
+        "sex": "male",
+        "company": "COMVERGES",
+        "phone": "+1 (974) 417-2107",
+        "address": "544 Roebling Street, Dorneyville, New Mexico, 40628",
+        "notes": [
+          "Excepteur quis dolor culpa dolor laborum velit. Officia magna do ut ut cupidatat exercitation irure esse do elit elit reprehenderit. Duis deserunt occaecat dolore occaecat ullamco esse in commodo."
+        ],
+        "registered": "Thursday, December 10, 2015 7:23 AM",
+        "sire": "5b9483a6b114cf329eb3dfcd",
+        "dam": "5b9483a61aaf4eaebac32a9c",
+        "epd": {
+          "CED": 2,
+          "BW": "-4",
+          "WW": 74,
+          "YW": 75,
+          "RADG": 1,
+          "DMI": 1,
+          "YH": "-1",
+          "SC": "-1",
+          "Doc": 23,
+          "HP": 9,
+          "CEM": 1,
+          "Milk": 2,
+          "MW": 92,
+          "MH": "-2",
+          "EN": "-36",
+          "CW": "-10",
+          "Marb": 0,
+          "RE": 2,
+          "Fat": "-1",
+          "W": 88,
+          "F": 14,
+          "G": 26,
+          "QG": 32,
+          "YG": 12,
+          "B": "-30"
+        },
+        "genes": [
+          "GWB",
+          "RRS",
+          "KNW",
+          "WIW",
+          "RPA"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.94318990133992,
+          41.07943431588373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a6d8a72f0de0334a5f",
+        "index": 46,
+        "guid": "78e47a27-7345-4e4e-99bc-26764c45ef54",
+        "isAlive": true,
+        "picture": "https://rawhideio.github.io/site/data/photos/3.png",
+        "age": 35,
+        "eyeColor": "green",
+        "sex": "male",
+        "company": "EXOSPACE",
+        "phone": "+1 (949) 482-3575",
+        "address": "925 Clifton Place, Orin, Georgia, 45684",
+        "notes": [
+          "Eiusmod et dolor veniam adipisicing consequat proident irure labore. Ullamco consectetur occaecat est ipsum esse dolore eu excepteur sit excepteur qui aute nisi ipsum. Do excepteur occaecat excepteur dolore fugiat non dolore dolor voluptate pariatur id duis. Aliquip aute ut fugiat et amet sint eu non labore do id ut commodo. Eiusmod nisi quis irure qui. Nostrud incididunt elit nostrud nulla labore qui quis aliquip Lorem Lorem reprehenderit enim ex amet. Veniam et sunt culpa esse ea non anim sint aliqua ut cillum."
+        ],
+        "registered": "Friday, October 28, 2016 4:32 AM",
+        "sire": "5b9483a6c791d1961290d2af",
+        "dam": "5b9483a654c3fa6d00998ded",
+        "epd": {
+          "CED": "-9",
+          "BW": 0,
+          "WW": 0,
+          "YW": 87,
+          "RADG": 1,
+          "DMI": 0,
+          "YH": "-1",
+          "SC": 0,
+          "Doc": 14,
+          "HP": 10,
+          "CEM": 1,
+          "Milk": 33,
+          "MW": 30,
+          "MH": "-2",
+          "EN": 27,
+          "CW": 83,
+          "Marb": 2,
+          "RE": "-1",
+          "Fat": 0,
+          "W": "-17",
+          "F": "-59",
+          "G": 32,
+          "QG": 41,
+          "YG": 2,
+          "B": 38
+        },
+        "genes": [
+          "BFN",
+          "IHI",
+          "KNW",
+          "RLB",
+          "RNK"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.27740854240581,
+          43.19473943040724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a68bb2bef998e4c0b0",
+        "index": 47,
+        "guid": "398ef6b3-2323-4b7e-a6c9-a74ca919d6af",
+        "isAlive": true,
+        "picture": "https://rawhideio.github.io/site/data/photos/7.png",
+        "age": 1,
+        "eyeColor": "green",
+        "sex": "female",
+        "company": "PLEXIA",
+        "phone": "+1 (872) 428-2229",
+        "address": "896 Centre Street, Dotsero, Colorado, 22215",
+        "notes": [
+          "Ullamco qui adipisicing elit duis laboris velit exercitation id id nisi consectetur esse excepteur fugiat. In minim voluptate sunt occaecat officia qui proident fugiat occaecat. Ad fugiat ea eu cupidatat nulla ex laborum excepteur magna quis veniam. Sit voluptate quis nostrud eiusmod minim nisi. Aute ipsum laboris minim et mollit incididunt tempor laborum qui veniam in."
+        ],
+        "registered": "Thursday, May 15, 2014 10:16 AM",
+        "sire": "5b9483a6c278ba0d5c169ccb",
+        "dam": "5b9483a6eb9a661e6617e74b",
+        "epd": {
+          "CED": 10,
+          "BW": 1,
+          "WW": 72,
+          "YW": 16,
+          "RADG": 0,
+          "DMI": 2,
+          "YH": 2,
+          "SC": 3,
+          "Doc": 27,
+          "HP": 16,
+          "CEM": 21,
+          "Milk": 12,
+          "MW": 95,
+          "MH": 0,
+          "EN": 29,
+          "CW": "-31",
+          "Marb": "-1",
+          "RE": 2,
+          "Fat": 1,
+          "W": "-25",
+          "F": 94,
+          "G": 37,
+          "QG": 32,
+          "YG": "-12",
+          "B": "-40"
+        },
+        "genes": [
+          "GWB",
+          "WIW",
+          "RRS",
+          "RPA",
+          "QAR"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.02862443514726,
+          44.19621089021399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a613f91e426e76aa39",
+        "index": 48,
+        "guid": "b90c7b4c-cb35-4ec6-83fb-1bb1d921c7c1",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/3.png",
+        "age": 7,
+        "eyeColor": "green",
+        "sex": "male",
+        "company": "GLEAMINK",
+        "phone": "+1 (884) 458-3812",
+        "address": "714 Union Avenue, Ola, Hawaii, 24710",
+        "notes": [
+          "Qui velit adipisicing exercitation culpa commodo elit quis et reprehenderit. Reprehenderit quis voluptate id nostrud irure occaecat labore. Ad dolore laboris deserunt nisi consectetur. Incididunt esse commodo dolor esse ipsum labore deserunt. Incididunt aute duis anim in."
+        ],
+        "registered": "Sunday, April 27, 2014 8:54 AM",
+        "sire": "5b9483a6e71868e16651e220",
+        "dam": "5b9483a6553acf67e2e707c4",
+        "epd": {
+          "CED": 2,
+          "BW": 1,
+          "WW": 83,
+          "YW": "-1",
+          "RADG": 0,
+          "DMI": 2,
+          "YH": 1,
+          "SC": 2,
+          "Doc": 31,
+          "HP": 16,
+          "CEM": 3,
+          "Milk": 13,
+          "MW": 53,
+          "MH": 1,
+          "EN": 41,
+          "CW": 78,
+          "Marb": 1,
+          "RE": 0,
+          "Fat": "-1",
+          "W": 34,
+          "F": 134,
+          "G": 37,
+          "QG": 16,
+          "YG": "-13",
+          "B": 58
+        },
+        "genes": [
+          "QAR",
+          "RPA",
+          "RNK",
+          "TAJ",
+          "KBB"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.50800702222918,
+          44.336889824729546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a6150fdb2ac1b25f1d",
+        "index": 49,
+        "guid": "2b430fc5-a978-42da-81a6-e049f30f19be",
+        "isAlive": true,
+        "picture": "https://rawhideio.github.io/site/data/photos/6.png",
+        "age": 10,
+        "eyeColor": "green",
+        "sex": "male",
+        "company": "XERONK",
+        "phone": "+1 (982) 474-2837",
+        "address": "963 Stryker Court, Bayview, California, 36523",
+        "notes": [
+          "Aute ullamco officia aute aute nisi ex aliqua aliquip pariatur dolore sint. In tempor deserunt adipisicing quis cupidatat commodo. Incididunt culpa sunt laborum velit eu eu voluptate voluptate cupidatat."
+        ],
+        "registered": "Thursday, March 20, 2014 7:50 AM",
+        "sire": "5b9483a6744ac1f2a8515e43",
+        "dam": "5b9483a69816d79a5d051f34",
+        "epd": {
+          "CED": "-16",
+          "BW": 9,
+          "WW": 62,
+          "YW": 105,
+          "RADG": 1,
+          "DMI": "-2",
+          "YH": 0,
+          "SC": 1,
+          "Doc": "-3",
+          "HP": 16,
+          "CEM": "-11",
+          "Milk": 47,
+          "MW": 29,
+          "MH": 2,
+          "EN": 26,
+          "CW": 23,
+          "Marb": 1,
+          "RE": 1,
+          "Fat": 0,
+          "W": "-13",
+          "F": 34,
+          "G": 15,
+          "QG": "-6",
+          "YG": 1,
+          "B": "-14"
+        },
+        "genes": [
+          "GWB",
+          "RLB",
+          "BFN",
+          "RRS",
+          "RPA"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.24795270522645,
+          43.94627966028449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a67edb3009762e8aa9",
+        "index": 50,
+        "guid": "820d3b4d-90f9-4231-8837-31ccfaa82269",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/2.png",
+        "age": 6,
+        "eyeColor": "blue",
+        "sex": "female",
+        "company": "IRACK",
+        "phone": "+1 (967) 553-2137",
+        "address": "288 Caton Place, Brenton, Utah, 49465",
+        "notes": [
+          "Ullamco reprehenderit anim dolore velit proident nostrud eiusmod veniam tempor aliquip dolore aute. Ex amet incididunt enim ullamco nostrud magna. Laboris exercitation ullamco in fugiat ad voluptate non. Amet velit excepteur veniam aliquip anim. Commodo elit mollit occaecat aute. Laborum pariatur enim ea nulla ut irure aliquip id proident."
+        ],
+        "registered": "Saturday, October 24, 2015 6:01 PM",
+        "sire": "5b9483a6f99646eefcb984ee",
+        "dam": "5b9483a629c1f5c1b97fb26c",
+        "epd": {
+          "CED": "-9",
+          "BW": "-2",
+          "WW": 45,
+          "YW": "-32",
+          "RADG": 0,
+          "DMI": "-2",
+          "YH": "-1",
+          "SC": 3,
+          "Doc": 1,
+          "HP": 0,
+          "CEM": "-9",
+          "Milk": "-1",
+          "MW": 118,
+          "MH": 0,
+          "EN": "-41",
+          "CW": "-24",
+          "Marb": 2,
+          "RE": 0,
+          "Fat": 0,
+          "W": 73,
+          "F": 77,
+          "G": 22,
+          "QG": 24,
+          "YG": "-9",
+          "B": 72
+        },
+        "genes": [
+          "RLB",
+          "RRS",
+          "ZGD",
+          "WSN",
+          "GWB"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.66668378644458,
+          41.04117261599972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a66ce976939160b614",
+        "index": 51,
+        "guid": "58ebf26e-847b-41db-abf3-f1e3c69dd0ed",
+        "isAlive": true,
+        "picture": "https://rawhideio.github.io/site/data/photos/5.png",
+        "age": 32,
+        "eyeColor": "brown",
+        "sex": "male",
+        "company": "CEPRENE",
+        "phone": "+1 (882) 529-2718",
+        "address": "938 Caton Avenue, Chesapeake, Northern Mariana Islands, 81200",
+        "notes": [
+          "Excepteur mollit labore reprehenderit anim Lorem. Ad et velit non non aliqua aliquip ea aute pariatur. Duis dolore minim non officia eu voluptate."
+        ],
+        "registered": "Monday, September 22, 2014 4:32 PM",
+        "sire": "5b9483a6ee85401631d0f164",
+        "dam": "5b9483a680a3981c1864b2ba",
+        "epd": {
+          "CED": "-5",
+          "BW": "-1",
+          "WW": 42,
+          "YW": 64,
+          "RADG": 0,
+          "DMI": "-1",
+          "YH": 1,
+          "SC": "-2",
+          "Doc": 34,
+          "HP": 1,
+          "CEM": 5,
+          "Milk": 48,
+          "MW": "-10",
+          "MH": 2,
+          "EN": 43,
+          "CW": 20,
+          "Marb": 1,
+          "RE": "-1",
+          "Fat": 0,
+          "W": 16,
+          "F": 86,
+          "G": 31,
+          "QG": 54,
+          "YG": "-6",
+          "B": 70
+        },
+        "genes": [
+          "RPK",
+          "ZGD",
+          "BFN",
+          "TAJ",
+          "RLB"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.29333443494065,
+          44.39795422817477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a670bbd0898106d5d1",
+        "index": 52,
+        "guid": "cbfefd33-ab2d-44e8-aefd-b0f8b255c057",
+        "isAlive": true,
+        "picture": "https://rawhideio.github.io/site/data/photos/2.png",
+        "age": 5,
+        "eyeColor": "brown",
+        "sex": "female",
+        "company": "KNOWLYSIS",
+        "phone": "+1 (839) 421-3156",
+        "address": "509 Maujer Street, Brandermill, Mississippi, 84842",
+        "notes": [
+          "Dolor aliqua est culpa enim velit id sint voluptate cupidatat excepteur ad exercitation. Reprehenderit fugiat sint enim ad nisi velit culpa eiusmod est. Nostrud do non in aliqua eu in deserunt elit tempor magna laboris tempor officia. Cillum ex commodo fugiat irure irure ex ipsum est reprehenderit quis excepteur fugiat ullamco ea. Enim cupidatat deserunt laboris sunt ullamco dolor elit sint et ad adipisicing excepteur pariatur aliqua. Ad laborum consectetur eu eiusmod. Tempor excepteur fugiat dolor occaecat ut."
+        ],
+        "registered": "Sunday, January 17, 2016 2:23 PM",
+        "sire": "5b9483a6938fbad770dbe4f1",
+        "dam": "5b9483a6a3f6fae00f16b5a3",
+        "epd": {
+          "CED": "-15",
+          "BW": "-6",
+          "WW": 46,
+          "YW": 77,
+          "RADG": 0,
+          "DMI": "-2",
+          "YH": "-1",
+          "SC": 3,
+          "Doc": 18,
+          "HP": 14,
+          "CEM": "-4",
+          "Milk": 36,
+          "MW": 49,
+          "MH": "-2",
+          "EN": "-13",
+          "CW": 36,
+          "Marb": 0,
+          "RE": 1,
+          "Fat": 0,
+          "W": "-8",
+          "F": 183,
+          "G": "-1",
+          "QG": 27,
+          "YG": 4,
+          "B": 92
+        },
+        "genes": [
+          "RNK",
+          "RLB",
+          "QAR",
+          "TTB",
+          "KBB"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.25776318774778,
+          41.18926303894894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a6677da63a73c81072",
+        "index": 53,
+        "guid": "34d1dc58-7c5b-4c46-9682-0cee62b05be3",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/2.png",
+        "age": 12,
+        "eyeColor": "green",
+        "sex": "male",
+        "company": "EMERGENT",
+        "phone": "+1 (959) 424-3862",
+        "address": "873 Georgia Avenue, Eastvale, Minnesota, 88565",
+        "notes": [
+          "Nostrud sit magna nostrud amet tempor proident fugiat. Do esse amet laboris ullamco eu qui ad magna sit irure ipsum dolor fugiat pariatur. Reprehenderit magna ullamco ad quis magna ipsum mollit aliqua qui sint irure. Deserunt velit aliqua mollit sit cillum aliquip laborum eu commodo anim enim duis reprehenderit sunt."
+        ],
+        "registered": "Monday, May 26, 2014 2:29 PM",
+        "sire": "5b9483a6934983809b8a4d55",
+        "dam": "5b9483a621aae421102b23df",
+        "epd": {
+          "CED": 9,
+          "BW": 9,
+          "WW": 33,
+          "YW": 101,
+          "RADG": 0,
+          "DMI": 1,
+          "YH": "-1",
+          "SC": 0,
+          "Doc": "-16",
+          "HP": 6,
+          "CEM": 9,
+          "Milk": 20,
+          "MW": "-24",
+          "MH": 0,
+          "EN": 29,
+          "CW": 56,
+          "Marb": 1,
+          "RE": 0,
+          "Fat": 0,
+          "W": 82,
+          "F": 173,
+          "G": 38,
+          "QG": 34,
+          "YG": "-10",
+          "B": 202
+        },
+        "genes": [
+          "QAR",
+          "TTB",
+          "RPA",
+          "RPK",
+          "WIW"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.2672049431809,
+          43.07690529400077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a6235a34b0a38d1a2a",
+        "index": 54,
+        "guid": "04f9a975-4211-4e8d-9add-8517718b76a9",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/7.png",
+        "age": 37,
+        "eyeColor": "brown",
+        "sex": "male",
+        "company": "VIAGREAT",
+        "phone": "+1 (962) 521-3375",
+        "address": "602 Polar Street, Edmund, New Hampshire, 31083",
+        "notes": [
+          "Aute ex tempor eiusmod ullamco qui sint ut est cupidatat occaecat incididunt ut officia sit. Ex eu ut veniam consequat nisi eu commodo qui sint anim ad enim amet incididunt. Voluptate dolor ex incididunt deserunt pariatur do mollit esse proident do sint. Elit nulla ea cillum do laborum. Culpa esse dolore adipisicing nostrud eiusmod sint consequat amet incididunt irure laborum aliquip. Do officia nisi aliqua pariatur velit minim deserunt labore sint nulla do."
+        ],
+        "registered": "Wednesday, May 31, 2017 1:20 PM",
+        "sire": "5b9483a6b7dfd8c986194e1d",
+        "dam": "5b9483a69bfb47ae3e72bd3c",
+        "epd": {
+          "CED": "-2",
+          "BW": 1,
+          "WW": 99,
+          "YW": 133,
+          "RADG": 0,
+          "DMI": "-1",
+          "YH": "-1",
+          "SC": 2,
+          "Doc": "-14",
+          "HP": 16,
+          "CEM": 7,
+          "Milk": "-2",
+          "MW": 109,
+          "MH": "-1",
+          "EN": 7,
+          "CW": 28,
+          "Marb": 0,
+          "RE": 0,
+          "Fat": 0,
+          "W": 109,
+          "F": 106,
+          "G": 55,
+          "QG": 7,
+          "YG": "-2",
+          "B": 170
+        },
+        "genes": [
+          "UUL",
+          "RPA",
+          "BFN",
+          "TAJ",
+          "RRS"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.92225778056587,
+          41.54687131796755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a67cf3717ce1796d62",
+        "index": 55,
+        "guid": "1575318d-e59d-47e7-9134-2bdd4bcc63bb",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/5.png",
+        "age": 38,
+        "eyeColor": "green",
+        "sex": "male",
+        "company": "QUIZKA",
+        "phone": "+1 (913) 557-3086",
+        "address": "181 Hewes Street, Watchtower, Nebraska, 22840",
+        "notes": [
+          "Elit sunt pariatur enim sint aliquip labore irure proident nostrud excepteur id. Qui et nulla ex consequat voluptate. Labore dolore nostrud anim culpa cupidatat mollit magna. Aliquip laborum consequat proident qui laboris ipsum voluptate Lorem laborum incididunt fugiat labore. Incididunt culpa sit commodo mollit ea nulla irure excepteur magna ea aliqua eiusmod aliquip aliqua. Est amet nostrud cupidatat aliqua sint deserunt amet ullamco ipsum."
+        ],
+        "registered": "Thursday, September 10, 2015 12:55 PM",
+        "sire": "5b9483a63626af16a809ed81",
+        "dam": "5b9483a662b32dbde776095b",
+        "epd": {
+          "CED": "-3",
+          "BW": 2,
+          "WW": 25,
+          "YW": "-3",
+          "RADG": "-1",
+          "DMI": 1,
+          "YH": "-2",
+          "SC": 2,
+          "Doc": 37,
+          "HP": 9,
+          "CEM": 6,
+          "Milk": 12,
+          "MW": 29,
+          "MH": 2,
+          "EN": "-16",
+          "CW": "-7",
+          "Marb": 0,
+          "RE": 2,
+          "Fat": 0,
+          "W": "-32",
+          "F": 37,
+          "G": 8,
+          "QG": 68,
+          "YG": 6,
+          "B": 10
+        },
+        "genes": [
+          "TAJ",
+          "RLB",
+          "GWB",
+          "BFN",
+          "KNW"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.68757640242137,
+          42.21416928905698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a686091f5890eac953",
+        "index": 56,
+        "guid": "a366be23-4200-4eca-bee3-02ce29874060",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/4.png",
+        "age": 3,
+        "eyeColor": "green",
+        "sex": "female",
+        "company": "XURBAN",
+        "phone": "+1 (921) 401-2134",
+        "address": "918 Broome Street, Richford, Florida, 85508",
+        "notes": [
+          "Elit mollit eiusmod adipisicing aliqua consequat et in sit consectetur ipsum fugiat cupidatat mollit commodo. Dolore velit sint tempor Lorem. Consequat ad aliqua cupidatat adipisicing nisi qui nulla mollit reprehenderit consequat elit culpa velit eiusmod. Cupidatat do adipisicing mollit qui aliquip cupidatat. Sint commodo Lorem excepteur commodo duis cillum consequat id elit labore culpa proident consectetur. Consequat enim eu sunt Lorem ex id laboris culpa nisi eiusmod cillum quis ea. In consequat id reprehenderit consequat deserunt sunt tempor irure."
+        ],
+        "registered": "Thursday, November 13, 2014 3:05 PM",
+        "sire": "5b9483a66fccc29f1484f0dd",
+        "dam": "5b9483a643de896461dc5ad2",
+        "epd": {
+          "CED": "-14",
+          "BW": "-6",
+          "WW": 31,
+          "YW": 134,
+          "RADG": 0,
+          "DMI": 0,
+          "YH": 2,
+          "SC": 1,
+          "Doc": "-22",
+          "HP": "-2",
+          "CEM": "-12",
+          "Milk": 16,
+          "MW": 27,
+          "MH": 1,
+          "EN": "-5",
+          "CW": 90,
+          "Marb": "-1",
+          "RE": 0,
+          "Fat": 0,
+          "W": 48,
+          "F": 148,
+          "G": 6,
+          "QG": "-17",
+          "YG": 2,
+          "B": 128
+        },
+        "genes": [
+          "GWB",
+          "RPK",
+          "RPA",
+          "RLB",
+          "UUL"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.10126018057422,
+          42.8096446493804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a6468f197cd58670e4",
+        "index": 57,
+        "guid": "9e139bb4-b3b8-4731-860e-cbcc73282c92",
+        "isAlive": true,
+        "picture": "https://rawhideio.github.io/site/data/photos/2.png",
+        "age": 14,
+        "eyeColor": "brown",
+        "sex": "male",
+        "company": "PURIA",
+        "phone": "+1 (958) 496-2593",
+        "address": "879 Gain Court, Alden, Rhode Island, 94588",
+        "notes": [
+          "Commodo eu culpa irure quis occaecat eiusmod laborum eiusmod duis. Eiusmod minim fugiat officia dolore Lorem pariatur commodo deserunt reprehenderit magna consequat sint do commodo. Veniam laborum excepteur sint irure labore pariatur nisi consequat irure commodo reprehenderit. Veniam esse excepteur proident voluptate quis anim. Non in quis do quis ipsum voluptate et."
+        ],
+        "registered": "Saturday, December 26, 2015 9:10 PM",
+        "sire": "5b9483a6a279d6e952defe97",
+        "dam": "5b9483a6b809231d28dd7da7",
+        "epd": {
+          "CED": 21,
+          "BW": 10,
+          "WW": 33,
+          "YW": 144,
+          "RADG": 1,
+          "DMI": "-1",
+          "YH": "-1",
+          "SC": 1,
+          "Doc": 33,
+          "HP": 19,
+          "CEM": 20,
+          "Milk": 16,
+          "MW": "-1",
+          "MH": 1,
+          "EN": "-39",
+          "CW": 54,
+          "Marb": 1,
+          "RE": 2,
+          "Fat": 0,
+          "W": 5,
+          "F": "-44",
+          "G": "-1",
+          "QG": 30,
+          "YG": "-6",
+          "B": 88
+        },
+        "genes": [
+          "TTB",
+          "KNW",
+          "RLB",
+          "TAJ",
+          "RNK"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.40819985046727,
+          43.7815019893602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a69f550ee3a77487db",
+        "index": 58,
+        "guid": "8f641970-aef2-4232-b40c-d5b54df95d5d",
+        "isAlive": true,
+        "picture": "https://rawhideio.github.io/site/data/photos/3.png",
+        "age": 27,
+        "eyeColor": "brown",
+        "sex": "male",
+        "company": "FRANSCENE",
+        "phone": "+1 (976) 436-3522",
+        "address": "981 Hendrickson Street, Bradenville, North Dakota, 39587",
+        "notes": [
+          "Et consectetur consequat consequat enim sunt sunt consequat. Ullamco ut proident duis et. Elit laboris eu duis adipisicing reprehenderit. Enim magna proident quis eu quis reprehenderit occaecat anim."
+        ],
+        "registered": "Tuesday, December 19, 2017 4:29 PM",
+        "sire": "5b9483a66aad851f8b624bc8",
+        "dam": "5b9483a6d19a35438c1aa0c8",
+        "epd": {
+          "CED": "-12",
+          "BW": 3,
+          "WW": 50,
+          "YW": 4,
+          "RADG": 1,
+          "DMI": "-1",
+          "YH": 0,
+          "SC": 2,
+          "Doc": "-1",
+          "HP": 6,
+          "CEM": 14,
+          "Milk": 7,
+          "MW": 79,
+          "MH": 0,
+          "EN": 56,
+          "CW": 67,
+          "Marb": "-1",
+          "RE": 0,
+          "Fat": 0,
+          "W": 92,
+          "F": "-76",
+          "G": 7,
+          "QG": 14,
+          "YG": 11,
+          "B": 236
+        },
+        "genes": [
+          "KNW",
+          "WSN",
+          "QAR",
+          "UUL",
+          "KBB"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.5073625555797,
+          44.01906355402792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a6336db0e053339f37",
+        "index": 59,
+        "guid": "bb7bf802-7828-4945-b270-b3e661c96e04",
+        "isAlive": true,
+        "picture": "https://rawhideio.github.io/site/data/photos/7.png",
+        "age": 27,
+        "eyeColor": "blue",
+        "sex": "male",
+        "company": "CENTREXIN",
+        "phone": "+1 (860) 523-2946",
+        "address": "526 High Street, Frierson, Maryland, 32909",
+        "notes": [
+          "Officia dolore eiusmod anim amet ex officia. Aliquip eu ex eiusmod nostrud. Cupidatat id veniam exercitation pariatur tempor minim nisi eu occaecat occaecat in consequat excepteur occaecat. Sit laboris enim elit occaecat enim fugiat mollit cupidatat qui exercitation. Voluptate fugiat officia dolor et ut. Qui non quis adipisicing aliqua reprehenderit tempor laborum."
+        ],
+        "registered": "Saturday, October 28, 2017 2:55 AM",
+        "sire": "5b9483a629c27580f66b5c17",
+        "dam": "5b9483a62131dad126d02fb2",
+        "epd": {
+          "CED": 14,
+          "BW": "-2",
+          "WW": 30,
+          "YW": "-21",
+          "RADG": 0,
+          "DMI": "-1",
+          "YH": 1,
+          "SC": 2,
+          "Doc": 11,
+          "HP": 1,
+          "CEM": 1,
+          "Milk": 37,
+          "MW": 10,
+          "MH": 0,
+          "EN": "-48",
+          "CW": 3,
+          "Marb": "-1",
+          "RE": 2,
+          "Fat": 0,
+          "W": 85,
+          "F": 154,
+          "G": "-3",
+          "QG": "-28",
+          "YG": "-15",
+          "B": 47
+        },
+        "genes": [
+          "RPK",
+          "TTB",
+          "ZGD",
+          "RNK",
+          "TAJ"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.93129086807912,
+          43.103365263764765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a6161dd2e8b33257cc",
+        "index": 60,
+        "guid": "b2ac9163-ea7f-4820-877a-9504e7c7bf59",
+        "isAlive": true,
+        "picture": "https://rawhideio.github.io/site/data/photos/3.png",
+        "age": 16,
+        "eyeColor": "green",
+        "sex": "female",
+        "company": "ZOUNDS",
+        "phone": "+1 (813) 479-3988",
+        "address": "544 Malta Street, Cherokee, Virginia, 11404",
+        "notes": [
+          "Eu exercitation eu irure do. Adipisicing aliquip qui pariatur ipsum amet cupidatat aliqua commodo pariatur enim adipisicing enim. Deserunt do esse anim aliqua pariatur non sunt. Ipsum sint sit fugiat aliqua et aliqua in occaecat enim. Amet dolore id nisi dolore tempor nisi exercitation amet non occaecat excepteur. Occaecat in sit eiusmod tempor pariatur eu velit ea in laboris tempor enim aliqua minim."
+        ],
+        "registered": "Sunday, July 24, 2016 12:48 AM",
+        "sire": "5b9483a6ba7af4ac5a2c0205",
+        "dam": "5b9483a60a36944c6a9c76b5",
+        "epd": {
+          "CED": 24,
+          "BW": "-2",
+          "WW": 13,
+          "YW": 88,
+          "RADG": 1,
+          "DMI": "-2",
+          "YH": 1,
+          "SC": 0,
+          "Doc": 29,
+          "HP": 17,
+          "CEM": "-7",
+          "Milk": 32,
+          "MW": "-32",
+          "MH": 0,
+          "EN": 4,
+          "CW": 84,
+          "Marb": 0,
+          "RE": 1,
+          "Fat": 1,
+          "W": 57,
+          "F": "-58",
+          "G": "-7",
+          "QG": 61,
+          "YG": "-14",
+          "B": 151
+        },
+        "genes": [
+          "TAJ",
+          "BFN",
+          "RPA",
+          "TTB",
+          "RPK"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.21273336798713,
+          44.9124343872801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a60d0b9de485eeebad",
+        "index": 61,
+        "guid": "6ddae782-1768-4933-a189-ca3f79aa7470",
+        "isAlive": true,
+        "picture": "https://rawhideio.github.io/site/data/photos/5.png",
+        "age": 40,
+        "eyeColor": "brown",
+        "sex": "male",
+        "company": "SUREPLEX",
+        "phone": "+1 (908) 525-2904",
+        "address": "594 Canal Avenue, Greenbackville, Maine, 53926",
+        "notes": [
+          "Exercitation magna consequat culpa dolore ipsum reprehenderit laboris in est officia do commodo reprehenderit. Tempor excepteur reprehenderit cupidatat labore ullamco est do laboris veniam nisi do ex. Incididunt Lorem aute cillum sint occaecat irure in deserunt anim velit consequat amet irure."
+        ],
+        "registered": "Friday, October 13, 2017 11:20 AM",
+        "sire": "5b9483a672ee51eff2e0b0f8",
+        "dam": "5b9483a6a3c5f3c34d950407",
+        "epd": {
+          "CED": 15,
+          "BW": 9,
+          "WW": 48,
+          "YW": 102,
+          "RADG": 1,
+          "DMI": 2,
+          "YH": 1,
+          "SC": 3,
+          "Doc": 11,
+          "HP": 8,
+          "CEM": "-8",
+          "Milk": 8,
+          "MW": 49,
+          "MH": 0,
+          "EN": 21,
+          "CW": "-9",
+          "Marb": 0,
+          "RE": 1,
+          "Fat": 0,
+          "W": 87,
+          "F": 187,
+          "G": 61,
+          "QG": 68,
+          "YG": "-6",
+          "B": "-35"
+        },
+        "genes": [
+          "KBB",
+          "TAJ",
+          "KNW",
+          "QAR",
+          "RPK"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.99093403169127,
+          44.20253748625562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a64f5592f8e9c218b7",
+        "index": 62,
+        "guid": "5f8fa088-fe95-4b9f-a2f6-92573c611118",
+        "isAlive": true,
+        "picture": "https://rawhideio.github.io/site/data/photos/1.png",
+        "age": 10,
+        "eyeColor": "green",
+        "sex": "female",
+        "company": "EXTRAGEN",
+        "phone": "+1 (811) 532-3256",
+        "address": "492 Meserole Street, Waiohinu, Alaska, 79792",
+        "notes": [
+          "Qui velit deserunt deserunt sint occaecat nulla et qui aliquip magna ea anim ut commodo. Consectetur Lorem ipsum ut aliquip. Officia enim ad magna nostrud ipsum incididunt laboris ut incididunt cupidatat aute. Fugiat velit ex irure officia fugiat. Exercitation enim enim esse duis ex est in aliquip incididunt do excepteur. Veniam deserunt consequat deserunt pariatur occaecat. Tempor et dolor tempor amet do."
+        ],
+        "registered": "Saturday, May 21, 2016 8:39 PM",
+        "sire": "5b9483a614785f74a0ce8b9d",
+        "dam": "5b9483a697609756ebd4a7d3",
+        "epd": {
+          "CED": "-11",
+          "BW": 8,
+          "WW": 54,
+          "YW": 6,
+          "RADG": 1,
+          "DMI": "-1",
+          "YH": 0,
+          "SC": 2,
+          "Doc": 26,
+          "HP": 14,
+          "CEM": "-11",
+          "Milk": 12,
+          "MW": "-62",
+          "MH": 0,
+          "EN": 64,
+          "CW": 80,
+          "Marb": 2,
+          "RE": 2,
+          "Fat": 0,
+          "W": 83,
+          "F": 180,
+          "G": 16,
+          "QG": 16,
+          "YG": 7,
+          "B": 103
+        },
+        "genes": [
+          "TTB",
+          "RNK",
+          "GWB",
+          "RPK",
+          "WSN"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.17475109857388,
+          43.790268593277176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a63cea558fac0561d7",
+        "index": 63,
+        "guid": "0fdb84e4-44e2-4b1d-a566-1ad3b28e13ee",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/4.png",
+        "age": 10,
+        "eyeColor": "blue",
+        "sex": "female",
+        "company": "VITRICOMP",
+        "phone": "+1 (921) 525-3392",
+        "address": "247 Grand Avenue, Graball, Guam, 86072",
+        "notes": [
+          "Officia esse esse ex quis non dolor anim consectetur mollit ullamco nostrud nisi. Aute culpa anim tempor anim enim occaecat culpa nostrud nulla reprehenderit. Nostrud irure cupidatat nisi cillum consectetur non sit ut laborum in. Veniam ipsum eiusmod Lorem excepteur ad aliqua aliqua. Ullamco et aliquip reprehenderit consequat in irure dolore sit anim velit ipsum occaecat magna. Aute dolore est fugiat aliqua."
+        ],
+        "registered": "Monday, July 30, 2018 9:15 AM",
+        "sire": "5b9483a60a63337e0866ecc0",
+        "dam": "5b9483a653fd8b8031c26010",
+        "epd": {
+          "CED": 5,
+          "BW": "-7",
+          "WW": "-3",
+          "YW": 107,
+          "RADG": 0,
+          "DMI": "-1",
+          "YH": 0,
+          "SC": "-1",
+          "Doc": "-4",
+          "HP": 0,
+          "CEM": "-7",
+          "Milk": 9,
+          "MW": "-42",
+          "MH": 1,
+          "EN": "-25",
+          "CW": "-24",
+          "Marb": 2,
+          "RE": 1,
+          "Fat": 0,
+          "W": 84,
+          "F": 18,
+          "G": 6,
+          "QG": 31,
+          "YG": "-16",
+          "B": 53
+        },
+        "genes": [
+          "GWB",
+          "RNK",
+          "BFN",
+          "IHI",
+          "ZGD"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.95838738564476,
+          41.16405333379612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a67d6b5359397ce6c3",
+        "index": 64,
+        "guid": "faac231c-7cb1-429a-b58b-d466d48080e8",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/5.png",
+        "age": 1,
+        "eyeColor": "green",
+        "sex": "male",
+        "company": "EXERTA",
+        "phone": "+1 (896) 439-2980",
+        "address": "690 Adler Place, Greenbush, Federated States Of Micronesia, 91636",
+        "notes": [
+          "Nisi qui in elit cillum irure. Pariatur ex irure velit consequat tempor ea ullamco ad dolor laboris occaecat id est laboris. Mollit adipisicing aute consequat enim anim commodo. Labore eu mollit nulla consequat nostrud veniam. Elit nulla aliqua enim eiusmod laboris."
+        ],
+        "registered": "Wednesday, April 16, 2014 10:39 AM",
+        "sire": "5b9483a6b7c1029ea6233cca",
+        "dam": "5b9483a65fdc72ded10c6b3a",
+        "epd": {
+          "CED": "-7",
+          "BW": 9,
+          "WW": 4,
+          "YW": 124,
+          "RADG": 0,
+          "DMI": 2,
+          "YH": "-1",
+          "SC": 2,
+          "Doc": "-21",
+          "HP": 5,
+          "CEM": 13,
+          "Milk": 28,
+          "MW": "-39",
+          "MH": "-2",
+          "EN": "-25",
+          "CW": 46,
+          "Marb": "-1",
+          "RE": 1,
+          "Fat": 0,
+          "W": 63,
+          "F": 47,
+          "G": 72,
+          "QG": 9,
+          "YG": 3,
+          "B": 229
+        },
+        "genes": [
+          "QAR",
+          "GWB",
+          "RPA",
+          "KBB",
+          "ZGD"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.5331312645004,
+          42.47107426084203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a6a0ca75daa3b119e8",
+        "index": 65,
+        "guid": "67f0b159-9db4-46aa-96e3-46dfe267909b",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/7.png",
+        "age": 28,
+        "eyeColor": "blue",
+        "sex": "male",
+        "company": "VISUALIX",
+        "phone": "+1 (862) 478-2985",
+        "address": "479 Dewey Place, Moraida, Michigan, 67921",
+        "notes": [
+          "Exercitation velit ut irure consequat anim. Velit reprehenderit voluptate duis nostrud mollit nostrud Lorem esse duis. Velit consequat nulla qui id elit magna in sit anim. Ullamco ea proident adipisicing qui. Laboris ea tempor veniam ipsum anim pariatur cupidatat ea tempor. Proident incididunt officia amet nostrud sit exercitation voluptate qui tempor reprehenderit fugiat."
+        ],
+        "registered": "Sunday, December 10, 2017 6:15 PM",
+        "sire": "5b9483a624a2ba14763832b0",
+        "dam": "5b9483a6366e666f08415024",
+        "epd": {
+          "CED": 13,
+          "BW": "-2",
+          "WW": 22,
+          "YW": "-9",
+          "RADG": 0,
+          "DMI": 1,
+          "YH": 1,
+          "SC": 2,
+          "Doc": "-12",
+          "HP": 13,
+          "CEM": 13,
+          "Milk": 19,
+          "MW": 1,
+          "MH": 2,
+          "EN": 15,
+          "CW": 64,
+          "Marb": 2,
+          "RE": 1,
+          "Fat": 0,
+          "W": 29,
+          "F": 3,
+          "G": 5,
+          "QG": "-17",
+          "YG": "-7",
+          "B": 130
+        },
+        "genes": [
+          "IHI",
+          "WSN",
+          "BFN",
+          "KNW",
+          "RRS"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.39208322226143,
+          41.75620541229162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a648a01f24aa700fc1",
+        "index": 66,
+        "guid": "7acb5bab-255f-4d94-b8ea-bd85de3dded5",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/3.png",
+        "age": 10,
+        "eyeColor": "green",
+        "sex": "male",
+        "company": "MARQET",
+        "phone": "+1 (814) 542-2536",
+        "address": "292 Story Court, Fairacres, Oklahoma, 97464",
+        "notes": [
+          "Reprehenderit ullamco ut laboris voluptate cillum dolore proident duis dolor. Deserunt laboris proident fugiat ipsum ut proident laboris et esse. Ea incididunt ea in fugiat sit laboris ullamco enim. Sunt cillum elit sunt tempor aliqua quis do esse. Est duis voluptate sint et ut do cupidatat dolor eu duis veniam quis. Non consectetur et veniam labore aliquip laborum."
+        ],
+        "registered": "Sunday, May 11, 2014 2:04 AM",
+        "sire": "5b9483a68a3f69ab0933b912",
+        "dam": "5b9483a64a4704505008e7b5",
+        "epd": {
+          "CED": 21,
+          "BW": 4,
+          "WW": 78,
+          "YW": 97,
+          "RADG": 0,
+          "DMI": 0,
+          "YH": "-2",
+          "SC": 3,
+          "Doc": 37,
+          "HP": 5,
+          "CEM": 20,
+          "Milk": 4,
+          "MW": 97,
+          "MH": 1,
+          "EN": 22,
+          "CW": "-38",
+          "Marb": 0,
+          "RE": 0,
+          "Fat": "-1",
+          "W": 104,
+          "F": 24,
+          "G": 36,
+          "QG": 7,
+          "YG": 7,
+          "B": 165
+        },
+        "genes": [
+          "KNW",
+          "RLB",
+          "RNK",
+          "BFN",
+          "WSN"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.13339866311402,
+          43.21449304794967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a6a5e46461836b850f",
+        "index": 67,
+        "guid": "77cfe719-afaa-4d21-93e1-67ac416a44bd",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/2.png",
+        "age": 7,
+        "eyeColor": "brown",
+        "sex": "female",
+        "company": "LUXURIA",
+        "phone": "+1 (891) 545-2701",
+        "address": "114 Lincoln Road, Finzel, West Virginia, 39476",
+        "notes": [
+          "Do deserunt reprehenderit culpa incididunt. Enim incididunt minim culpa aliqua eiusmod nostrud. Consequat reprehenderit laboris quis occaecat exercitation. Est proident dolor cillum minim velit sunt laborum duis aliqua anim est aliquip dolor labore."
+        ],
+        "registered": "Sunday, August 31, 2014 5:47 PM",
+        "sire": "5b9483a6e482e09fc0239848",
+        "dam": "5b9483a6383e6c1abe25ade9",
+        "epd": {
+          "CED": 19,
+          "BW": 2,
+          "WW": "-4",
+          "YW": 59,
+          "RADG": 1,
+          "DMI": 0,
+          "YH": 0,
+          "SC": 1,
+          "Doc": 35,
+          "HP": 18,
+          "CEM": 9,
+          "Milk": 7,
+          "MW": 72,
+          "MH": 0,
+          "EN": "-35",
+          "CW": 33,
+          "Marb": 0,
+          "RE": 2,
+          "Fat": 0,
+          "W": 83,
+          "F": 75,
+          "G": 26,
+          "QG": "-18",
+          "YG": "-12",
+          "B": 241
+        },
+        "genes": [
+          "QAR",
+          "RLB",
+          "IHI",
+          "KBB",
+          "WIW"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.01170502534498,
+          43.26566304253917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a68f0b4a45e319266c",
+        "index": 68,
+        "guid": "4d96241f-098d-416c-b0a4-256e54ff472b",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/7.png",
+        "age": 9,
+        "eyeColor": "brown",
+        "sex": "female",
+        "company": "MAXEMIA",
+        "phone": "+1 (920) 526-3988",
+        "address": "330 Covert Street, Glenshaw, Arizona, 88039",
+        "notes": [
+          "Consectetur ut minim aliquip esse sit deserunt sit aliqua duis dolore. Ut incididunt qui cillum cillum. Mollit aute quis deserunt velit magna occaecat. Enim est ut minim incididunt. Dolor quis eu ullamco nisi dolor sint. Aliquip elit cillum ea minim enim adipisicing sunt eiusmod."
+        ],
+        "registered": "Friday, June 30, 2017 8:12 PM",
+        "sire": "5b9483a6037690845786c6cc",
+        "dam": "5b9483a6980fad32b65f94af",
+        "epd": {
+          "CED": "-10",
+          "BW": "-4",
+          "WW": 58,
+          "YW": 140,
+          "RADG": 0,
+          "DMI": "-2",
+          "YH": 1,
+          "SC": 1,
+          "Doc": "-21",
+          "HP": 1,
+          "CEM": 1,
+          "Milk": 42,
+          "MW": "-6",
+          "MH": 1,
+          "EN": 3,
+          "CW": 61,
+          "Marb": 2,
+          "RE": 2,
+          "Fat": 0,
+          "W": 41,
+          "F": 31,
+          "G": 41,
+          "QG": 1,
+          "YG": 14,
+          "B": 104
+        },
+        "genes": [
+          "RPA",
+          "RPK",
+          "BFN",
+          "IHI",
+          "ZGD"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.16805971204457,
+          41.75281775116957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a6c4438c3ff6cbffae",
+        "index": 69,
+        "guid": "0a6839bc-4ab8-4c42-9302-3b161292045d",
+        "isAlive": true,
+        "picture": "https://rawhideio.github.io/site/data/photos/2.png",
+        "age": 30,
+        "eyeColor": "blue",
+        "sex": "female",
+        "company": "KANGLE",
+        "phone": "+1 (870) 530-2970",
+        "address": "904 Reed Street, Kaka, Puerto Rico, 61654",
+        "notes": [
+          "Mollit exercitation nulla nulla ad laborum amet nisi dolore non ut incididunt aliquip excepteur consectetur. Deserunt et irure aute sint non elit ut. Officia pariatur voluptate deserunt est eu pariatur tempor adipisicing. Fugiat fugiat ad cillum tempor sunt duis nisi. Irure elit aute pariatur fugiat dolor mollit amet est anim velit. Reprehenderit cillum do laboris aute dolor est velit ullamco id velit."
+        ],
+        "registered": "Wednesday, December 3, 2014 9:26 PM",
+        "sire": "5b9483a61af5ba60e4bfc4e6",
+        "dam": "5b9483a607277b189cd17940",
+        "epd": {
+          "CED": 9,
+          "BW": 2,
+          "WW": 96,
+          "YW": 168,
+          "RADG": "-1",
+          "DMI": 1,
+          "YH": 0,
+          "SC": 3,
+          "Doc": 4,
+          "HP": 7,
+          "CEM": "-8",
+          "Milk": 20,
+          "MW": 12,
+          "MH": 1,
+          "EN": 29,
+          "CW": 21,
+          "Marb": "-1",
+          "RE": 0,
+          "Fat": 0,
+          "W": 95,
+          "F": "-46",
+          "G": "-13",
+          "QG": 30,
+          "YG": "-14",
+          "B": 164
+        },
+        "genes": [
+          "TTB",
+          "BFN",
+          "RPA",
+          "RPK",
+          "TAJ"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.20599362234306,
+          43.43349291278183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a6c396fa9f8922087a",
+        "index": 70,
+        "guid": "f66bed52-9c11-42a8-88c4-1b6ce87597ba",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/2.png",
+        "age": 13,
+        "eyeColor": "brown",
+        "sex": "female",
+        "company": "CRUSTATIA",
+        "phone": "+1 (869) 452-3628",
+        "address": "795 Clara Street, Hollins, Marshall Islands, 56905",
+        "notes": [
+          "Dolor exercitation laboris velit culpa quis laboris laborum. Amet officia in elit ipsum consectetur voluptate nulla id occaecat esse. Proident laborum ea quis nisi laborum ipsum qui et amet nisi incididunt labore."
+        ],
+        "registered": "Wednesday, May 28, 2014 4:54 AM",
+        "sire": "5b9483a604ce891634cd7a8e",
+        "dam": "5b9483a62a0754ae059c6575",
+        "epd": {
+          "CED": "-4",
+          "BW": 2,
+          "WW": 3,
+          "YW": 88,
+          "RADG": 0,
+          "DMI": 0,
+          "YH": 2,
+          "SC": 1,
+          "Doc": 29,
+          "HP": 0,
+          "CEM": 21,
+          "Milk": 14,
+          "MW": 58,
+          "MH": "-1",
+          "EN": 29,
+          "CW": 41,
+          "Marb": 2,
+          "RE": 0,
+          "Fat": "-1",
+          "W": 66,
+          "F": "-73",
+          "G": 42,
+          "QG": 34,
+          "YG": 12,
+          "B": "-26"
+        },
+        "genes": [
+          "ZGD",
+          "RPK",
+          "KNW",
+          "UUL",
+          "TAJ"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.91642282364764,
+          43.98928233358615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a60148126649a9019a",
+        "index": 71,
+        "guid": "bb5f6913-23aa-4e3d-ae0d-fabab111027a",
+        "isAlive": true,
+        "picture": "https://rawhideio.github.io/site/data/photos/6.png",
+        "age": 10,
+        "eyeColor": "brown",
+        "sex": "female",
+        "company": "OBONES",
+        "phone": "+1 (814) 580-3727",
+        "address": "815 Denton Place, Terlingua, Connecticut, 90815",
+        "notes": [
+          "Deserunt Lorem Lorem nisi non quis labore. Est laborum ea amet incididunt occaecat sunt eu laboris pariatur occaecat. Qui dolore laborum est laboris non laboris anim eu quis. Id est proident officia excepteur commodo. Sit cupidatat reprehenderit ad laboris quis. Ex irure nulla cillum laboris incididunt enim elit qui."
+        ],
+        "registered": "Wednesday, May 27, 2015 7:36 PM",
+        "sire": "5b9483a6cbf39edee6b36afc",
+        "dam": "5b9483a6358332cd0ad2f7f7",
+        "epd": {
+          "CED": 6,
+          "BW": 8,
+          "WW": 34,
+          "YW": 180,
+          "RADG": 1,
+          "DMI": "-1",
+          "YH": "-1",
+          "SC": 3,
+          "Doc": "-17",
+          "HP": 17,
+          "CEM": 9,
+          "Milk": 41,
+          "MW": 58,
+          "MH": 1,
+          "EN": 9,
+          "CW": "-38",
+          "Marb": 0,
+          "RE": 2,
+          "Fat": 0,
+          "W": 61,
+          "F": "-56",
+          "G": 76,
+          "QG": 0,
+          "YG": 14,
+          "B": 241
+        },
+        "genes": [
+          "WSN",
+          "RPK",
+          "KNW",
+          "QAR",
+          "WIW"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.35085648481036,
+          42.58443652870038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a68a4fd55581244f33",
+        "index": 72,
+        "guid": "04759b93-b52b-4ad0-be98-1fa50be77b31",
+        "isAlive": true,
+        "picture": "https://rawhideio.github.io/site/data/photos/6.png",
+        "age": 12,
+        "eyeColor": "blue",
+        "sex": "female",
+        "company": "GOLISTIC",
+        "phone": "+1 (918) 502-3349",
+        "address": "326 Pershing Loop, Frank, Wyoming, 71043",
+        "notes": [
+          "Consectetur nulla anim culpa laborum mollit ut sint exercitation dolor amet nostrud. In dolore anim veniam Lorem laboris consequat. Non voluptate elit incididunt nostrud duis cillum veniam aliqua duis mollit. Occaecat ea duis commodo eu aliquip ipsum aliquip reprehenderit nisi laboris in officia deserunt velit. Nostrud et non pariatur reprehenderit magna do pariatur ea est."
+        ],
+        "registered": "Thursday, March 3, 2016 2:23 PM",
+        "sire": "5b9483a6774d6a9276547125",
+        "dam": "5b9483a61e404f7684161b36",
+        "epd": {
+          "CED": 19,
+          "BW": "-3",
+          "WW": 0,
+          "YW": 176,
+          "RADG": 0,
+          "DMI": 2,
+          "YH": "-2",
+          "SC": 1,
+          "Doc": 18,
+          "HP": 3,
+          "CEM": "-4",
+          "Milk": 11,
+          "MW": "-74",
+          "MH": 2,
+          "EN": 55,
+          "CW": 41,
+          "Marb": 2,
+          "RE": 0,
+          "Fat": 0,
+          "W": 54,
+          "F": 95,
+          "G": "-1",
+          "QG": 0,
+          "YG": 13,
+          "B": 83
+        },
+        "genes": [
+          "RLB",
+          "TAJ",
+          "QAR",
+          "UUL",
+          "WSN"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.72661715032753,
+          41.94878397161635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a67294bd92fde63bc8",
+        "index": 73,
+        "guid": "ff781537-7f79-47c1-ad42-f1918d72a54d",
+        "isAlive": true,
+        "picture": "https://rawhideio.github.io/site/data/photos/1.png",
+        "age": 13,
+        "eyeColor": "green",
+        "sex": "female",
+        "company": "VOIPA",
+        "phone": "+1 (926) 569-2271",
+        "address": "589 Commerce Street, Summerset, Idaho, 43586",
+        "notes": [
+          "Reprehenderit quis sunt excepteur magna voluptate consequat reprehenderit. Duis sunt pariatur ullamco nisi officia ad duis enim fugiat occaecat et ad aliquip duis. Tempor reprehenderit velit in eu reprehenderit. Duis est occaecat cupidatat magna esse officia commodo dolore exercitation veniam laborum labore."
+        ],
+        "registered": "Tuesday, March 6, 2018 6:48 AM",
+        "sire": "5b9483a6c05a765a06deb7ca",
+        "dam": "5b9483a682045b3ee5f0e2a9",
+        "epd": {
+          "CED": "-17",
+          "BW": 2,
+          "WW": 5,
+          "YW": 181,
+          "RADG": 0,
+          "DMI": 1,
+          "YH": 2,
+          "SC": "-1",
+          "Doc": 11,
+          "HP": 11,
+          "CEM": 4,
+          "Milk": 14,
+          "MW": "-21",
+          "MH": 2,
+          "EN": "-44",
+          "CW": "-42",
+          "Marb": 2,
+          "RE": 0,
+          "Fat": 0,
+          "W": 80,
+          "F": "-43",
+          "G": "-2",
+          "QG": 34,
+          "YG": 11,
+          "B": "-42"
+        },
+        "genes": [
+          "RLB",
+          "BFN",
+          "RNK",
+          "KNW",
+          "KBB"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.47598542300449,
+          44.64780716041967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a632ce5e25b5441ae3",
+        "index": 74,
+        "guid": "9185e2bc-8844-4ed7-9bbd-7629be3fadda",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/3.png",
+        "age": 29,
+        "eyeColor": "blue",
+        "sex": "female",
+        "company": "ESSENSIA",
+        "phone": "+1 (956) 439-3867",
+        "address": "204 Ira Court, Ernstville, Oregon, 36065",
+        "notes": [
+          "Non do non aliquip anim. Eu voluptate irure occaecat labore duis cupidatat aliquip tempor qui. Qui aliquip cupidatat culpa commodo esse proident excepteur elit ex adipisicing et incididunt velit quis. Irure est consectetur nisi voluptate commodo aliquip velit ex consequat aute elit occaecat consequat. Nostrud do velit non irure."
+        ],
+        "registered": "Wednesday, September 17, 2014 3:08 AM",
+        "sire": "5b9483a6998d1b7d40b7d04e",
+        "dam": "5b9483a6711950b2b6a8e7f1",
+        "epd": {
+          "CED": "-3",
+          "BW": 10,
+          "WW": 96,
+          "YW": 175,
+          "RADG": 0,
+          "DMI": "-1",
+          "YH": 0,
+          "SC": 0,
+          "Doc": "-17",
+          "HP": 5,
+          "CEM": "-6",
+          "Milk": 41,
+          "MW": "-55",
+          "MH": 2,
+          "EN": "-46",
+          "CW": 27,
+          "Marb": 1,
+          "RE": 0,
+          "Fat": 0,
+          "W": 35,
+          "F": 17,
+          "G": 18,
+          "QG": 19,
+          "YG": "-4",
+          "B": 118
+        },
+        "genes": [
+          "TAJ",
+          "WIW",
+          "IHI",
+          "TTB",
+          "BFN"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.4703964298707,
+          42.72802027110034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a64e4bf975d6819391",
+        "index": 75,
+        "guid": "c6b0e0ba-a5c9-4c5c-836b-118fa4d4e248",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/1.png",
+        "age": 22,
+        "eyeColor": "brown",
+        "sex": "male",
+        "company": "VURBO",
+        "phone": "+1 (989) 590-2559",
+        "address": "121 Manhattan Avenue, Brecon, New Jersey, 38065",
+        "notes": [
+          "Consequat consectetur proident aliquip ipsum in ipsum quis Lorem veniam deserunt. Eiusmod labore irure labore non mollit. Laboris commodo sint ea commodo deserunt fugiat laboris officia in Lorem exercitation pariatur enim adipisicing. Pariatur in voluptate ut sint aute id amet incididunt ipsum esse. Reprehenderit enim amet quis enim fugiat voluptate."
+        ],
+        "registered": "Sunday, October 8, 2017 6:07 AM",
+        "sire": "5b9483a6b3d8d6e010540333",
+        "dam": "5b9483a6e2b8445f399ed128",
+        "epd": {
+          "CED": 19,
+          "BW": "-6",
+          "WW": 17,
+          "YW": 12,
+          "RADG": "-1",
+          "DMI": 0,
+          "YH": 0,
+          "SC": 3,
+          "Doc": 23,
+          "HP": 10,
+          "CEM": 6,
+          "Milk": 1,
+          "MW": 10,
+          "MH": 0,
+          "EN": 18,
+          "CW": 18,
+          "Marb": 0,
+          "RE": 0,
+          "Fat": 0,
+          "W": 69,
+          "F": 166,
+          "G": 5,
+          "QG": 36,
+          "YG": "-1",
+          "B": 197
+        },
+        "genes": [
+          "BFN",
+          "RPK",
+          "TAJ",
+          "GWB",
+          "KBB"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5015630187429,
+          42.35810446696028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a6420a257a0ff4aa9a",
+        "index": 76,
+        "guid": "7aa924ab-2f44-40e7-8a7a-1bb25ea619c3",
+        "isAlive": true,
+        "picture": "https://rawhideio.github.io/site/data/photos/7.png",
+        "age": 16,
+        "eyeColor": "brown",
+        "sex": "male",
+        "company": "DIGIRANG",
+        "phone": "+1 (866) 479-2756",
+        "address": "743 Will Place, Enoree, American Samoa, 84076",
+        "notes": [
+          "Deserunt nostrud est occaecat aliquip labore cillum exercitation labore et deserunt. Aliqua consectetur dolore esse eu labore quis ad et consequat eu qui sint consequat ad. Consequat esse culpa eiusmod est cupidatat incididunt eu. Ex esse pariatur eu velit pariatur. Dolor exercitation dolor enim et nisi ad et consequat. Exercitation anim deserunt laboris anim."
+        ],
+        "registered": "Saturday, March 4, 2017 9:54 AM",
+        "sire": "5b9483a678d5b7900b39f849",
+        "dam": "5b9483a6cd77739746e9fbc8",
+        "epd": {
+          "CED": 0,
+          "BW": 9,
+          "WW": 43,
+          "YW": "-31",
+          "RADG": 1,
+          "DMI": 2,
+          "YH": 2,
+          "SC": 1,
+          "Doc": 23,
+          "HP": 10,
+          "CEM": 5,
+          "Milk": 32,
+          "MW": "-72",
+          "MH": 1,
+          "EN": 48,
+          "CW": 8,
+          "Marb": 2,
+          "RE": 0,
+          "Fat": 0,
+          "W": 76,
+          "F": "-37",
+          "G": 38,
+          "QG": 57,
+          "YG": "-7",
+          "B": 116
+        },
+        "genes": [
+          "WIW",
+          "BFN",
+          "IHI",
+          "RNK",
+          "KBB"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.54487310592317,
+          43.4123619143566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a63d82bfc195d8606a",
+        "index": 77,
+        "guid": "121bda2c-bdfa-4ae8-9cd7-f2f52662841e",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/2.png",
+        "age": 5,
+        "eyeColor": "green",
+        "sex": "female",
+        "company": "PARAGONIA",
+        "phone": "+1 (851) 444-3115",
+        "address": "814 Sumner Place, Brewster, Delaware, 79475",
+        "notes": [
+          "Labore eiusmod irure do dolore. Esse occaecat dolor fugiat est nulla excepteur duis nostrud occaecat aliqua. Aliqua deserunt ut fugiat et irure ad labore voluptate aliquip ex pariatur. Laborum id fugiat laboris nisi ex deserunt ut mollit occaecat incididunt aliquip reprehenderit tempor veniam."
+        ],
+        "registered": "Thursday, September 21, 2017 8:04 AM",
+        "sire": "5b9483a65aea683264a1d82b",
+        "dam": "5b9483a61bdae1ce19dd2322",
+        "epd": {
+          "CED": "-3",
+          "BW": 1,
+          "WW": 17,
+          "YW": 175,
+          "RADG": 1,
+          "DMI": "-2",
+          "YH": "-1",
+          "SC": "-1",
+          "Doc": 16,
+          "HP": 4,
+          "CEM": "-11",
+          "Milk": 17,
+          "MW": "-58",
+          "MH": "-2",
+          "EN": 31,
+          "CW": 34,
+          "Marb": 2,
+          "RE": 1,
+          "Fat": 0,
+          "W": 43,
+          "F": 0,
+          "G": 45,
+          "QG": 9,
+          "YG": 11,
+          "B": 39
+        },
+        "genes": [
+          "IHI",
+          "RNK",
+          "KBB",
+          "BFN",
+          "ZGD"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.38640357063315,
+          42.07596849465994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a6e94c1c41af0ec7ad",
+        "index": 78,
+        "guid": "daf338da-edce-48d4-ba0b-3f540b6145d1",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/3.png",
+        "age": 32,
+        "eyeColor": "green",
+        "sex": "female",
+        "company": "SUREMAX",
+        "phone": "+1 (856) 523-2604",
+        "address": "955 Tennis Court, Vowinckel, Palau, 57866",
+        "notes": [
+          "Lorem do non eiusmod exercitation voluptate voluptate consectetur cupidatat consectetur et anim sit tempor. Tempor culpa aute proident anim duis mollit irure enim eiusmod enim sit ipsum mollit elit. Tempor culpa incididunt amet laboris officia deserunt cillum dolor voluptate. Eu in consequat elit do aliqua eiusmod officia qui ullamco. Non cupidatat anim sint esse sit consequat ea. Consectetur minim cupidatat voluptate nostrud ea velit cupidatat enim sit reprehenderit."
+        ],
+        "registered": "Tuesday, December 16, 2014 4:37 AM",
+        "sire": "5b9483a6fd1e7d8beb2ebc9b",
+        "dam": "5b9483a60b0a3d42fcd9d549",
+        "epd": {
+          "CED": "-13",
+          "BW": "-4",
+          "WW": 28,
+          "YW": 22,
+          "RADG": 0,
+          "DMI": 0,
+          "YH": 1,
+          "SC": 0,
+          "Doc": 8,
+          "HP": 12,
+          "CEM": "-3",
+          "Milk": 16,
+          "MW": 75,
+          "MH": 0,
+          "EN": 50,
+          "CW": "-34",
+          "Marb": 1,
+          "RE": 1,
+          "Fat": 1,
+          "W": 8,
+          "F": 76,
+          "G": 61,
+          "QG": "-23",
+          "YG": 4,
+          "B": 186
+        },
+        "genes": [
+          "RPA",
+          "TTB",
+          "WSN",
+          "KNW",
+          "RRS"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.3194389777062,
+          42.94267553203396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a6438cb70585ec0451",
+        "index": 79,
+        "guid": "ecb42fde-1fa2-4085-aa29-8a7bc403aeb1",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/2.png",
+        "age": 31,
+        "eyeColor": "brown",
+        "sex": "male",
+        "company": "TWIGGERY",
+        "phone": "+1 (921) 410-2619",
+        "address": "963 Beverly Road, Rockhill, Wisconsin, 98854",
+        "notes": [
+          "Sint irure in ex mollit exercitation minim veniam deserunt exercitation et. Id est voluptate do proident Lorem officia reprehenderit aute proident cupidatat nulla. Commodo proident dolor aliquip aliqua sit. Fugiat veniam sunt culpa nisi est exercitation qui minim laboris ipsum. Laboris excepteur non ex eiusmod deserunt. Voluptate dolore aliquip commodo nostrud proident."
+        ],
+        "registered": "Thursday, September 1, 2016 12:30 PM",
+        "sire": "5b9483a66cfaab9ecfd330e1",
+        "dam": "5b9483a639f561b468d8ec08",
+        "epd": {
+          "CED": 4,
+          "BW": "-1",
+          "WW": 57,
+          "YW": "-32",
+          "RADG": 1,
+          "DMI": 2,
+          "YH": "-2",
+          "SC": 2,
+          "Doc": 40,
+          "HP": 1,
+          "CEM": 0,
+          "Milk": 30,
+          "MW": 4,
+          "MH": "-2",
+          "EN": 18,
+          "CW": 57,
+          "Marb": 0,
+          "RE": 1,
+          "Fat": 0,
+          "W": 14,
+          "F": 13,
+          "G": 58,
+          "QG": 73,
+          "YG": 8,
+          "B": "-5"
+        },
+        "genes": [
+          "TAJ",
+          "RPK",
+          "BFN",
+          "UUL",
+          "WIW"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.98094397366431,
+          43.260395322495796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a63f824ff8c57e9e3b",
+        "index": 80,
+        "guid": "96c44738-d142-4f04-b294-40c8a54893c8",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/2.png",
+        "age": 3,
+        "eyeColor": "blue",
+        "sex": "male",
+        "company": "ISOTRACK",
+        "phone": "+1 (928) 413-3689",
+        "address": "643 Williams Court, Lemoyne, Missouri, 62749",
+        "notes": [
+          "Ipsum pariatur sint non nisi consectetur commodo proident est nisi excepteur est. Deserunt labore labore dolor veniam reprehenderit Lorem enim dolor pariatur reprehenderit in aute anim exercitation. Mollit nulla irure pariatur ea aliqua occaecat et sit id laboris do proident minim officia. Consequat aliquip ex exercitation quis officia ut Lorem ea fugiat reprehenderit mollit ipsum."
+        ],
+        "registered": "Tuesday, March 25, 2014 1:46 AM",
+        "sire": "5b9483a6ce53f92dd189109d",
+        "dam": "5b9483a66cc637736e9ce182",
+        "epd": {
+          "CED": "-16",
+          "BW": "-6",
+          "WW": "-14",
+          "YW": 136,
+          "RADG": 0,
+          "DMI": 0,
+          "YH": 0,
+          "SC": 2,
+          "Doc": 39,
+          "HP": 20,
+          "CEM": 4,
+          "Milk": 18,
+          "MW": 27,
+          "MH": 2,
+          "EN": 35,
+          "CW": "-20",
+          "Marb": 1,
+          "RE": "-1",
+          "Fat": 1,
+          "W": "-13",
+          "F": "-76",
+          "G": "-9",
+          "QG": "-26",
+          "YG": 9,
+          "B": 200
+        },
+        "genes": [
+          "UUL",
+          "KBB",
+          "QAR",
+          "ZGD",
+          "WSN"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.89649503140843,
+          44.992800477193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a60a4a5bb5ae939cde",
+        "index": 81,
+        "guid": "bb8832f4-5209-4c86-8503-1d9e7f47481d",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/1.png",
+        "age": 1,
+        "eyeColor": "brown",
+        "sex": "female",
+        "company": "DRAGBOT",
+        "phone": "+1 (976) 588-2218",
+        "address": "718 Kimball Street, Byrnedale, Kansas, 82974",
+        "notes": [
+          "Proident deserunt ex consequat fugiat minim tempor proident. Nisi ex duis dolor veniam consequat Lorem. Est sunt dolor magna duis adipisicing et. Ut officia voluptate labore aliqua sit irure voluptate labore veniam incididunt sit ut velit. Officia do ut cillum tempor reprehenderit ad."
+        ],
+        "registered": "Sunday, May 13, 2018 9:25 PM",
+        "sire": "5b9483a67e64bad70c7ec33e",
+        "dam": "5b9483a6cfc53aea45e499d8",
+        "epd": {
+          "CED": "-9",
+          "BW": "-1",
+          "WW": 41,
+          "YW": "-9",
+          "RADG": 0,
+          "DMI": 0,
+          "YH": 0,
+          "SC": 3,
+          "Doc": 25,
+          "HP": 4,
+          "CEM": 18,
+          "Milk": 37,
+          "MW": "-10",
+          "MH": "-1",
+          "EN": "-9",
+          "CW": 82,
+          "Marb": 1,
+          "RE": 1,
+          "Fat": 0,
+          "W": "-13",
+          "F": 129,
+          "G": 63,
+          "QG": 4,
+          "YG": 12,
+          "B": 161
+        },
+        "genes": [
+          "GWB",
+          "BFN",
+          "IHI",
+          "TAJ",
+          "UUL"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.29806915310313,
+          43.80737932351089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a69130b8b6890a6944",
+        "index": 82,
+        "guid": "b440cf6c-b294-4ed4-ad9c-68c70600b29c",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/3.png",
+        "age": 8,
+        "eyeColor": "brown",
+        "sex": "female",
+        "company": "KOG",
+        "phone": "+1 (811) 462-2539",
+        "address": "470 Lake Place, Murillo, Alabama, 62290",
+        "notes": [
+          "Culpa do sint ad cillum reprehenderit exercitation aliquip veniam deserunt eu. Adipisicing dolore nisi tempor mollit veniam in nostrud voluptate deserunt do aliqua ut aliquip. Adipisicing aliquip nulla amet cillum magna cillum ullamco. Consequat commodo eu labore id commodo voluptate officia mollit officia. Consequat fugiat magna magna nostrud consectetur exercitation enim eiusmod. Dolor ea esse sunt velit ut exercitation duis minim aute magna occaecat. Magna esse minim ullamco Lorem qui et."
+        ],
+        "registered": "Sunday, April 1, 2018 12:36 PM",
+        "sire": "5b9483a6a1318f0d1d95b481",
+        "dam": "5b9483a6c1342dc0a018f26e",
+        "epd": {
+          "CED": 3,
+          "BW": 6,
+          "WW": 57,
+          "YW": 10,
+          "RADG": 0,
+          "DMI": 2,
+          "YH": 0,
+          "SC": "-1",
+          "Doc": 35,
+          "HP": 16,
+          "CEM": 1,
+          "Milk": 46,
+          "MW": "-10",
+          "MH": 0,
+          "EN": 67,
+          "CW": "-7",
+          "Marb": 0,
+          "RE": 2,
+          "Fat": "-1",
+          "W": 1,
+          "F": 86,
+          "G": "-4",
+          "QG": 0,
+          "YG": "-13",
+          "B": 240
+        },
+        "genes": [
+          "RNK",
+          "ZGD",
+          "TTB",
+          "WIW",
+          "IHI"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.38186558691369,
+          42.7485444673364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a6f58adca571d082d0",
+        "index": 83,
+        "guid": "eb2ae51c-fe6d-492d-acab-d70d6a862620",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/2.png",
+        "age": 25,
+        "eyeColor": "blue",
+        "sex": "female",
+        "company": "ACCUPRINT",
+        "phone": "+1 (995) 519-3223",
+        "address": "169 Granite Street, Defiance, Iowa, 21764",
+        "notes": [
+          "Lorem nostrud elit velit ut id ea do incididunt excepteur reprehenderit. Consequat aute amet voluptate occaecat dolor ea quis nisi in qui culpa velit excepteur. Ipsum qui est est culpa quis esse nulla deserunt do."
+        ],
+        "registered": "Sunday, November 5, 2017 2:54 PM",
+        "sire": "5b9483a6b0ad133d118cd469",
+        "dam": "5b9483a67058ff2662f9f7d9",
+        "epd": {
+          "CED": 18,
+          "BW": 8,
+          "WW": 57,
+          "YW": "-26",
+          "RADG": 1,
+          "DMI": "-1",
+          "YH": 0,
+          "SC": 2,
+          "Doc": 29,
+          "HP": 11,
+          "CEM": "-10",
+          "Milk": 47,
+          "MW": 74,
+          "MH": "-1",
+          "EN": 10,
+          "CW": 42,
+          "Marb": 0,
+          "RE": 2,
+          "Fat": 0,
+          "W": 108,
+          "F": 74,
+          "G": 1,
+          "QG": 39,
+          "YG": "-13",
+          "B": "-34"
+        },
+        "genes": [
+          "ZGD",
+          "WSN",
+          "BFN",
+          "GWB",
+          "RRS"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.63304573949394,
+          42.58956898226659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a69b34c7fd8c1aadf9",
+        "index": 84,
+        "guid": "12a85746-3d08-4817-b8e8-aba5a06dd2fc",
+        "isAlive": true,
+        "picture": "https://rawhideio.github.io/site/data/photos/3.png",
+        "age": 15,
+        "eyeColor": "green",
+        "sex": "male",
+        "company": "ECOSYS",
+        "phone": "+1 (891) 525-3916",
+        "address": "692 Beard Street, Bridgetown, Ohio, 54119",
+        "notes": [
+          "Adipisicing cillum irure aute in ut veniam sint eu dolore cupidatat proident id do quis. Ut quis aliqua anim ex. Velit in irure est proident ea ut laborum consequat magna anim occaecat voluptate in. Ea cupidatat eu tempor qui consectetur cillum sunt in esse dolore aliquip."
+        ],
+        "registered": "Sunday, July 3, 2016 12:04 PM",
+        "sire": "5b9483a6fabd9bdf732a6e39",
+        "dam": "5b9483a61e3fbbb83761b1db",
+        "epd": {
+          "CED": 20,
+          "BW": 2,
+          "WW": 83,
+          "YW": "-13",
+          "RADG": "-1",
+          "DMI": 1,
+          "YH": "-1",
+          "SC": "-1",
+          "Doc": 30,
+          "HP": 11,
+          "CEM": 7,
+          "Milk": 33,
+          "MW": 112,
+          "MH": 1,
+          "EN": "-17",
+          "CW": 29,
+          "Marb": "-1",
+          "RE": 0,
+          "Fat": 1,
+          "W": "-16",
+          "F": "-33",
+          "G": 33,
+          "QG": 53,
+          "YG": 6,
+          "B": "-29"
+        },
+        "genes": [
+          "IHI",
+          "RRS",
+          "WIW",
+          "UUL",
+          "RPK"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.52719666612633,
+          44.04461464989915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a61761bb44fcd4ce15",
+        "index": 85,
+        "guid": "9e21216a-27bf-4f74-b048-0f9634ac071e",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/4.png",
+        "age": 26,
+        "eyeColor": "green",
+        "sex": "male",
+        "company": "BRAINQUIL",
+        "phone": "+1 (977) 549-2863",
+        "address": "809 Stillwell Place, Saddlebrooke, Louisiana, 61537",
+        "notes": [
+          "Qui et quis adipisicing irure id adipisicing ut officia commodo tempor. Consectetur reprehenderit amet officia aute mollit fugiat laboris officia. Adipisicing occaecat Lorem irure deserunt culpa voluptate in velit non ipsum occaecat dolor. Incididunt mollit excepteur do dolore Lorem Lorem laboris mollit sunt. Id elit sunt et velit do sint eiusmod duis pariatur nisi deserunt pariatur ea. Minim esse sunt velit est cupidatat velit fugiat sit elit fugiat cillum excepteur labore officia."
+        ],
+        "registered": "Monday, December 15, 2014 11:41 PM",
+        "sire": "5b9483a6e2e3dea21d8a69d0",
+        "dam": "5b9483a6a7b6b78acca103e7",
+        "epd": {
+          "CED": 22,
+          "BW": 1,
+          "WW": "-2",
+          "YW": 10,
+          "RADG": 1,
+          "DMI": "-1",
+          "YH": "-1",
+          "SC": 2,
+          "Doc": 5,
+          "HP": 18,
+          "CEM": "-1",
+          "Milk": 14,
+          "MW": 70,
+          "MH": 0,
+          "EN": "-21",
+          "CW": 91,
+          "Marb": "-1",
+          "RE": 1,
+          "Fat": 0,
+          "W": 31,
+          "F": 49,
+          "G": 22,
+          "QG": 60,
+          "YG": 11,
+          "B": "-11"
+        },
+        "genes": [
+          "UUL",
+          "RNK",
+          "WSN",
+          "RRS",
+          "BFN"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.17912937462674,
+          44.04566550427619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a6ea66ea881cf64bf6",
+        "index": 86,
+        "guid": "f9852875-9adc-43e0-8a87-bbda2d99c37e",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/5.png",
+        "age": 19,
+        "eyeColor": "brown",
+        "sex": "female",
+        "company": "SHADEASE",
+        "phone": "+1 (801) 506-2917",
+        "address": "247 Coles Street, Whitestone, Indiana, 80544",
+        "notes": [
+          "Et reprehenderit sit quis eu fugiat eu est enim minim anim esse fugiat. Veniam irure consequat laborum in. Ex sunt qui voluptate nisi ut elit amet est."
+        ],
+        "registered": "Monday, November 21, 2016 10:15 AM",
+        "sire": "5b9483a63951824f248ee420",
+        "dam": "5b9483a6cc6bc401d47ddbe8",
+        "epd": {
+          "CED": "-4",
+          "BW": 8,
+          "WW": 77,
+          "YW": 145,
+          "RADG": 0,
+          "DMI": "-2",
+          "YH": 1,
+          "SC": 3,
+          "Doc": 41,
+          "HP": 12,
+          "CEM": 10,
+          "Milk": 0,
+          "MW": 78,
+          "MH": "-2",
+          "EN": 39,
+          "CW": "-40",
+          "Marb": 0,
+          "RE": 1,
+          "Fat": 0,
+          "W": 78,
+          "F": 85,
+          "G": 77,
+          "QG": "-1",
+          "YG": "-12",
+          "B": 164
+        },
+        "genes": [
+          "RPA",
+          "WSN",
+          "RRS",
+          "GWB",
+          "KBB"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.45797759890714,
+          41.555605237774465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a68b8c6a3a8fe15c0c",
+        "index": 87,
+        "guid": "8c7323a6-afd4-4bf0-be1d-2bcc42cc5713",
+        "isAlive": true,
+        "picture": "https://rawhideio.github.io/site/data/photos/7.png",
+        "age": 11,
+        "eyeColor": "blue",
+        "sex": "female",
+        "company": "GLASSTEP",
+        "phone": "+1 (847) 540-2105",
+        "address": "543 Frank Court, Hegins, Kentucky, 67805",
+        "notes": [
+          "Voluptate exercitation enim anim velit cupidatat cillum veniam dolore id tempor. Non ullamco quis elit cupidatat voluptate Lorem esse laboris. Lorem nisi ea exercitation fugiat minim ad mollit minim dolor duis consequat. Aute culpa minim anim mollit ut dolor mollit officia eu occaecat."
+        ],
+        "registered": "Sunday, December 27, 2015 10:39 PM",
+        "sire": "5b9483a6db6b1e81b7b7eaeb",
+        "dam": "5b9483a6dec05d7137442c5f",
+        "epd": {
+          "CED": 11,
+          "BW": 3,
+          "WW": 75,
+          "YW": 145,
+          "RADG": 1,
+          "DMI": 0,
+          "YH": 1,
+          "SC": 2,
+          "Doc": 2,
+          "HP": 7,
+          "CEM": "-6",
+          "Milk": 35,
+          "MW": "-16",
+          "MH": 0,
+          "EN": 23,
+          "CW": 53,
+          "Marb": 1,
+          "RE": 1,
+          "Fat": 0,
+          "W": "-7",
+          "F": 6,
+          "G": 33,
+          "QG": 10,
+          "YG": "-10",
+          "B": 200
+        },
+        "genes": [
+          "ZGD",
+          "IHI",
+          "RPK",
+          "RPA",
+          "KBB"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.21553845280975,
+          42.33906653715484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a6d1130f5e1d97502f",
+        "index": 88,
+        "guid": "b18b5e82-22c0-4467-b8fb-ba11f1d7ff02",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/1.png",
+        "age": 2,
+        "eyeColor": "blue",
+        "sex": "male",
+        "company": "EMTRAK",
+        "phone": "+1 (848) 425-3943",
+        "address": "247 Gerry Street, Rosburg, Arkansas, 71832",
+        "notes": [
+          "Consequat excepteur eiusmod anim eiusmod. Reprehenderit eiusmod consectetur esse irure exercitation sint ea. Amet ad culpa enim proident sunt do."
+        ],
+        "registered": "Thursday, March 30, 2017 11:56 PM",
+        "sire": "5b9483a6020edfd49c7a7aea",
+        "dam": "5b9483a671f53f46b58d21a7",
+        "epd": {
+          "CED": 21,
+          "BW": 7,
+          "WW": 11,
+          "YW": 31,
+          "RADG": 0,
+          "DMI": "-2",
+          "YH": "-1",
+          "SC": 0,
+          "Doc": 35,
+          "HP": 9,
+          "CEM": 15,
+          "Milk": 16,
+          "MW": 8,
+          "MH": "-1",
+          "EN": "-14",
+          "CW": 45,
+          "Marb": 1,
+          "RE": 2,
+          "Fat": 0,
+          "W": "-33",
+          "F": "-40",
+          "G": 13,
+          "QG": 43,
+          "YG": "-16",
+          "B": 122
+        },
+        "genes": [
+          "TAJ",
+          "RPA",
+          "GWB",
+          "KBB",
+          "ZGD"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.27734472921954,
+          42.2532881877336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a6b7116f9a36196e59",
+        "index": 89,
+        "guid": "6b51af7a-f2b2-42ce-9268-9d17e1cfdb5f",
+        "isAlive": true,
+        "picture": "https://rawhideio.github.io/site/data/photos/1.png",
+        "age": 10,
+        "eyeColor": "green",
+        "sex": "male",
+        "company": "HOMETOWN",
+        "phone": "+1 (960) 538-3972",
+        "address": "421 Brown Street, Savage, Washington, 62444",
+        "notes": [
+          "Lorem consequat laboris sit laboris. Laboris reprehenderit consequat officia proident adipisicing do. Excepteur tempor dolor aute proident tempor culpa veniam nisi. In quis magna commodo id eiusmod cupidatat eiusmod. Et proident sint velit laboris voluptate excepteur voluptate aliqua eiusmod dolor magna."
+        ],
+        "registered": "Wednesday, February 1, 2017 7:52 PM",
+        "sire": "5b9483a6086b2304be4fde9b",
+        "dam": "5b9483a689f3b9c973f556e3",
+        "epd": {
+          "CED": 20,
+          "BW": 7,
+          "WW": "-14",
+          "YW": "-5",
+          "RADG": 1,
+          "DMI": 0,
+          "YH": "-1",
+          "SC": "-1",
+          "Doc": 32,
+          "HP": 8,
+          "CEM": "-5",
+          "Milk": 16,
+          "MW": "-39",
+          "MH": 0,
+          "EN": 17,
+          "CW": 69,
+          "Marb": 1,
+          "RE": 1,
+          "Fat": 0,
+          "W": 99,
+          "F": 127,
+          "G": 14,
+          "QG": "-28",
+          "YG": "-4",
+          "B": 66
+        },
+        "genes": [
+          "RRS",
+          "RLB",
+          "RPA",
+          "KBB",
+          "ZGD"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.16787614290452,
+          41.76783693703329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a67bfb76d38f83b32d",
+        "index": 90,
+        "guid": "46e96984-ef4c-4f8c-87ec-35b1104f8773",
+        "isAlive": true,
+        "picture": "https://rawhideio.github.io/site/data/photos/7.png",
+        "age": 34,
+        "eyeColor": "brown",
+        "sex": "female",
+        "company": "ZERBINA",
+        "phone": "+1 (872) 445-3620",
+        "address": "460 Thomas Street, Clarktown, New York, 49558",
+        "notes": [
+          "Esse dolor incididunt voluptate culpa aliqua anim non consectetur veniam anim. Cupidatat ad et laborum duis dolore nisi sit qui. Magna duis laborum et cupidatat proident irure fugiat sit sunt quis pariatur consequat officia. Veniam cillum commodo nisi cillum cupidatat velit do aliquip laboris id quis in veniam laborum."
+        ],
+        "registered": "Thursday, February 22, 2018 6:51 PM",
+        "sire": "5b9483a6c055166a0217aa81",
+        "dam": "5b9483a6bd9a1060ecccce16",
+        "epd": {
+          "CED": 14,
+          "BW": 4,
+          "WW": "-4",
+          "YW": 8,
+          "RADG": 0,
+          "DMI": "-2",
+          "YH": 1,
+          "SC": 3,
+          "Doc": 15,
+          "HP": 10,
+          "CEM": "-10",
+          "Milk": 47,
+          "MW": 98,
+          "MH": "-2",
+          "EN": "-6",
+          "CW": "-26",
+          "Marb": "-1",
+          "RE": 0,
+          "Fat": 1,
+          "W": 103,
+          "F": 198,
+          "G": 51,
+          "QG": 59,
+          "YG": "-4",
+          "B": 78
+        },
+        "genes": [
+          "ZGD",
+          "RLB",
+          "UUL",
+          "GWB",
+          "TAJ"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.47834189151128,
+          43.211701963074574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a69375c6050a0a0f7f",
+        "index": 91,
+        "guid": "0b3f971d-e24a-4c26-b343-5d5df6fa8819",
+        "isAlive": true,
+        "picture": "https://rawhideio.github.io/site/data/photos/5.png",
+        "age": 40,
+        "eyeColor": "brown",
+        "sex": "male",
+        "company": "VERAQ",
+        "phone": "+1 (872) 532-2542",
+        "address": "280 Plymouth Street, Collins, South Dakota, 50476",
+        "notes": [
+          "Reprehenderit qui eu laborum veniam nisi nulla irure ut deserunt nulla occaecat labore. Excepteur exercitation ut irure ipsum eu. Et reprehenderit commodo incididunt voluptate est aliqua."
+        ],
+        "registered": "Sunday, September 27, 2015 2:19 PM",
+        "sire": "5b9483a6ad6dc915e8af0480",
+        "dam": "5b9483a6741e1d7c51ebae64",
+        "epd": {
+          "CED": "-13",
+          "BW": 3,
+          "WW": 24,
+          "YW": 38,
+          "RADG": 1,
+          "DMI": "-2",
+          "YH": 1,
+          "SC": 2,
+          "Doc": "-18",
+          "HP": 1,
+          "CEM": 16,
+          "Milk": 43,
+          "MW": "-33",
+          "MH": 0,
+          "EN": 57,
+          "CW": 10,
+          "Marb": 0,
+          "RE": 1,
+          "Fat": 0,
+          "W": "-23",
+          "F": 139,
+          "G": 65,
+          "QG": 9,
+          "YG": 0,
+          "B": 242
+        },
+        "genes": [
+          "RPK",
+          "RRS",
+          "WSN",
+          "UUL",
+          "ZGD"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.91464926368964,
+          42.138846489372106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a6a39d912388c08d7f",
+        "index": 92,
+        "guid": "8086ac17-b206-4815-ac4a-34c94e791435",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/6.png",
+        "age": 18,
+        "eyeColor": "green",
+        "sex": "female",
+        "company": "IPLAX",
+        "phone": "+1 (835) 452-2460",
+        "address": "279 Hinsdale Street, Nash, Texas, 83669",
+        "notes": [
+          "Tempor laborum et irure commodo est ad. Adipisicing ad exercitation aliqua labore elit sunt et ipsum in consectetur ex esse consequat adipisicing. Eiusmod aliqua consequat nisi mollit consectetur sit commodo. Ex deserunt proident velit sunt."
+        ],
+        "registered": "Sunday, May 7, 2017 9:06 PM",
+        "sire": "5b9483a6ae87a229379d60cd",
+        "dam": "5b9483a67e3710f28829cc50",
+        "epd": {
+          "CED": 17,
+          "BW": 10,
+          "WW": 4,
+          "YW": 159,
+          "RADG": 0,
+          "DMI": 1,
+          "YH": 0,
+          "SC": 0,
+          "Doc": "-20",
+          "HP": 5,
+          "CEM": 17,
+          "Milk": 24,
+          "MW": 93,
+          "MH": 2,
+          "EN": 49,
+          "CW": 28,
+          "Marb": 2,
+          "RE": 0,
+          "Fat": 0,
+          "W": 28,
+          "F": 138,
+          "G": 66,
+          "QG": 31,
+          "YG": "-14",
+          "B": 175
+        },
+        "genes": [
+          "BFN",
+          "QAR",
+          "WIW",
+          "UUL",
+          "TTB"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.09120429328128,
+          44.71810553561313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a6081e84c04f55525a",
+        "index": 93,
+        "guid": "6faf2977-e704-41a1-9931-0322be08269b",
+        "isAlive": true,
+        "picture": "https://rawhideio.github.io/site/data/photos/1.png",
+        "age": 35,
+        "eyeColor": "green",
+        "sex": "female",
+        "company": "PROXSOFT",
+        "phone": "+1 (926) 498-2815",
+        "address": "496 Perry Place, Templeton, District Of Columbia, 19985",
+        "notes": [
+          "Esse laborum adipisicing mollit velit anim duis excepteur sint. Enim deserunt id ut commodo ex sunt minim nisi in aute in cupidatat reprehenderit proident. Enim esse dolor deserunt Lorem enim reprehenderit irure amet magna duis occaecat ut nostrud."
+        ],
+        "registered": "Saturday, May 6, 2017 7:51 AM",
+        "sire": "5b9483a6a68ee7b6d2f42b75",
+        "dam": "5b9483a6e51a901ddfc8f430",
+        "epd": {
+          "CED": "-17",
+          "BW": 5,
+          "WW": 96,
+          "YW": 141,
+          "RADG": 1,
+          "DMI": "-1",
+          "YH": 0,
+          "SC": 2,
+          "Doc": 33,
+          "HP": 4,
+          "CEM": 4,
+          "Milk": 2,
+          "MW": "-37",
+          "MH": 0,
+          "EN": 42,
+          "CW": "-4",
+          "Marb": 1,
+          "RE": "-1",
+          "Fat": 0,
+          "W": 42,
+          "F": 93,
+          "G": "-11",
+          "QG": "-24",
+          "YG": "-8",
+          "B": 198
+        },
+        "genes": [
+          "ZGD",
+          "TAJ",
+          "IHI",
+          "WSN",
+          "RLB"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.27481773274464,
+          42.6390053205554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a66ec976418b395572",
+        "index": 94,
+        "guid": "53b43242-04ee-4513-b6e8-7e6dcc7bebd5",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/2.png",
+        "age": 28,
+        "eyeColor": "green",
+        "sex": "male",
+        "company": "SOLGAN",
+        "phone": "+1 (810) 464-2744",
+        "address": "461 Bergen Court, Ruffin, North Carolina, 14094",
+        "notes": [
+          "Eu esse veniam minim amet ex ullamco irure quis velit cupidatat laborum ex officia. Laborum non sit nulla Lorem velit. Est proident nisi aliqua excepteur ipsum fugiat anim duis quis sint cillum. Anim velit commodo exercitation dolore adipisicing mollit aliquip ullamco enim nisi. In do duis ullamco veniam enim ullamco excepteur eiusmod elit aliquip reprehenderit in aliqua. Labore consequat aute dolor est. Proident reprehenderit ea veniam ipsum culpa aliquip nostrud laborum ea exercitation ad velit."
+        ],
+        "registered": "Tuesday, November 18, 2014 12:55 PM",
+        "sire": "5b9483a686eba4c35919a398",
+        "dam": "5b9483a6f02b162722542b04",
+        "epd": {
+          "CED": 1,
+          "BW": "-5",
+          "WW": 35,
+          "YW": 37,
+          "RADG": 0,
+          "DMI": 0,
+          "YH": 0,
+          "SC": "-1",
+          "Doc": "-17",
+          "HP": 2,
+          "CEM": 20,
+          "Milk": 36,
+          "MW": 60,
+          "MH": 2,
+          "EN": "-18",
+          "CW": "-24",
+          "Marb": "-1",
+          "RE": 0,
+          "Fat": 0,
+          "W": 79,
+          "F": "-26",
+          "G": 39,
+          "QG": 46,
+          "YG": 0,
+          "B": 65
+        },
+        "genes": [
+          "WSN",
+          "BFN",
+          "WIW",
+          "QAR",
+          "GWB"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.89329019409605,
+          44.94072144704774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a65976c28b48b5156f",
+        "index": 95,
+        "guid": "1beb4f59-7cf2-4c97-b48a-dadfee0b6900",
+        "isAlive": true,
+        "picture": "https://rawhideio.github.io/site/data/photos/6.png",
+        "age": 32,
+        "eyeColor": "green",
+        "sex": "female",
+        "company": "APEXTRI",
+        "phone": "+1 (886) 400-3193",
+        "address": "568 Bedford Avenue, Jamestown, Vermont, 23222",
+        "notes": [
+          "Laboris qui dolor minim amet nulla duis. Adipisicing voluptate est non in reprehenderit anim aliquip. Laboris voluptate do ipsum velit minim laboris elit aliquip commodo aliqua pariatur et aliquip. Est occaecat non deserunt magna laborum."
+        ],
+        "registered": "Wednesday, April 22, 2015 7:49 AM",
+        "sire": "5b9483a6011970e7efa69977",
+        "dam": "5b9483a630429af5c21b50da",
+        "epd": {
+          "CED": "-3",
+          "BW": 10,
+          "WW": 95,
+          "YW": 124,
+          "RADG": 1,
+          "DMI": "-2",
+          "YH": 0,
+          "SC": 3,
+          "Doc": "-14",
+          "HP": 15,
+          "CEM": 2,
+          "Milk": 37,
+          "MW": 59,
+          "MH": "-1",
+          "EN": 2,
+          "CW": "-3",
+          "Marb": "-1",
+          "RE": 2,
+          "Fat": "-1",
+          "W": "-8",
+          "F": 15,
+          "G": "-13",
+          "QG": 29,
+          "YG": 9,
+          "B": 23
+        },
+        "genes": [
+          "WIW",
+          "WSN",
+          "KBB",
+          "QAR",
+          "IHI"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.91044478615966,
+          42.89446936365172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a6ce0dbe336e5aa368",
+        "index": 96,
+        "guid": "c464adc3-0771-4861-8127-3b583376c02a",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/4.png",
+        "age": 11,
+        "eyeColor": "green",
+        "sex": "female",
+        "company": "LUDAK",
+        "phone": "+1 (921) 595-2878",
+        "address": "566 McClancy Place, Wadsworth, Nevada, 84210",
+        "notes": [
+          "Ut consequat id est officia adipisicing tempor minim in cillum culpa cillum. Sit veniam consectetur ipsum enim sunt qui pariatur incididunt sint dolor exercitation eu anim. Velit nulla ullamco dolore veniam aute ex officia exercitation amet aliquip minim quis ut. Anim elit non veniam amet anim esse adipisicing cupidatat commodo fugiat pariatur sit consequat non. Culpa esse aute excepteur ipsum ex nulla quis reprehenderit nostrud veniam aute voluptate voluptate. Minim nostrud dolore id duis."
+        ],
+        "registered": "Wednesday, August 1, 2018 7:52 PM",
+        "sire": "5b9483a63a701b26cd0b5d0f",
+        "dam": "5b9483a6cdcbafe53c806d78",
+        "epd": {
+          "CED": 15,
+          "BW": 0,
+          "WW": 102,
+          "YW": "-21",
+          "RADG": 1,
+          "DMI": 0,
+          "YH": 0,
+          "SC": 0,
+          "Doc": 30,
+          "HP": 16,
+          "CEM": 18,
+          "Milk": 30,
+          "MW": "-79",
+          "MH": 0,
+          "EN": 47,
+          "CW": "-37",
+          "Marb": 0,
+          "RE": 1,
+          "Fat": 0,
+          "W": 85,
+          "F": 47,
+          "G": 30,
+          "QG": 41,
+          "YG": "-5",
+          "B": 17
+        },
+        "genes": [
+          "RNK",
+          "WSN",
+          "IHI",
+          "KBB",
+          "RPA"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.79432433596018,
+          41.57848371610803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a672a9108c1b29cb68",
+        "index": 97,
+        "guid": "a0371f41-6b16-433e-b4c5-a22bc32e8411",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/1.png",
+        "age": 25,
+        "eyeColor": "blue",
+        "sex": "male",
+        "company": "ENTROFLEX",
+        "phone": "+1 (871) 424-3175",
+        "address": "699 Neptune Avenue, Day, Tennessee, 51800",
+        "notes": [
+          "Eu velit nostrud adipisicing ea magna incididunt. Pariatur Lorem consequat pariatur consectetur. Cupidatat et nulla deserunt dolor dolore laboris enim. Eiusmod do duis voluptate ut Lorem amet et veniam exercitation. Nisi qui exercitation sint et elit voluptate qui aliquip nulla aute cillum reprehenderit esse. Non ad laboris officia culpa irure veniam consequat cupidatat duis qui id."
+        ],
+        "registered": "Saturday, June 13, 2015 4:23 PM",
+        "sire": "5b9483a684875fcd7cf9ce97",
+        "dam": "5b9483a6d30104c608d27a1b",
+        "epd": {
+          "CED": "-10",
+          "BW": "-4",
+          "WW": 82,
+          "YW": "-29",
+          "RADG": 1,
+          "DMI": "-2",
+          "YH": 1,
+          "SC": 2,
+          "Doc": 35,
+          "HP": "-2",
+          "CEM": "-2",
+          "Milk": 27,
+          "MW": "-59",
+          "MH": "-2",
+          "EN": 11,
+          "CW": 70,
+          "Marb": 1,
+          "RE": 1,
+          "Fat": 0,
+          "W": 99,
+          "F": 64,
+          "G": 56,
+          "QG": 27,
+          "YG": 14,
+          "B": 213
+        },
+        "genes": [
+          "QAR",
+          "GWB",
+          "KNW",
+          "RLB",
+          "ZGD"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.48520310772177,
+          43.523606007936344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a6521cd8d9f06277c1",
+        "index": 98,
+        "guid": "c93212bc-f0c2-4253-ba25-e2b747ce7ca2",
+        "isAlive": false,
+        "picture": "https://rawhideio.github.io/site/data/photos/7.png",
+        "age": 40,
+        "eyeColor": "green",
+        "sex": "female",
+        "company": "FURNIGEER",
+        "phone": "+1 (964) 478-2240",
+        "address": "102 Berkeley Place, Ona, South Carolina, 92679",
+        "notes": [
+          "Elit qui cillum ad veniam quis tempor est nisi non laborum aliquip. Ipsum laboris dolore laboris enim consequat deserunt occaecat eu. Proident mollit ut irure aute. Pariatur duis in voluptate Lorem officia tempor dolore consequat fugiat qui cillum veniam aliquip est. Ea do laboris esse Lorem duis sit. Ex deserunt fugiat dolore nostrud."
+        ],
+        "registered": "Tuesday, October 3, 2017 1:15 PM",
+        "sire": "5b9483a6ac74c2f42307785c",
+        "dam": "5b9483a6d9116f4429b598b7",
+        "epd": {
+          "CED": 2,
+          "BW": "-3",
+          "WW": 91,
+          "YW": 168,
+          "RADG": 0,
+          "DMI": 1,
+          "YH": 2,
+          "SC": 1,
+          "Doc": "-13",
+          "HP": 0,
+          "CEM": "-7",
+          "Milk": 7,
+          "MW": "-33",
+          "MH": 0,
+          "EN": 46,
+          "CW": 10,
+          "Marb": 0,
+          "RE": 1,
+          "Fat": 0,
+          "W": 24,
+          "F": "-38",
+          "G": "-12",
+          "QG": 32,
+          "YG": "-5",
+          "B": 228
+        },
+        "genes": [
+          "KBB",
+          "RNK",
+          "IHI",
+          "RPA",
+          "RPK"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.21254871475844,
+          42.33223389508075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "5b9483a640fceb61b3e59a25",
+        "index": 99,
+        "guid": "398f8188-1cd0-4d4a-aa18-447532eb6162",
+        "isAlive": true,
+        "picture": "https://rawhideio.github.io/site/data/photos/6.png",
+        "age": 32,
+        "eyeColor": "green",
+        "sex": "male",
+        "company": "ZOXY",
+        "phone": "+1 (876) 412-2938",
+        "address": "793 Lake Street, Leeper, Pennsylvania, 52544",
+        "notes": [
+          "Consequat veniam tempor ipsum ea qui pariatur quis. Est sint ullamco culpa velit laborum consectetur aliqua velit. Cupidatat ea adipisicing sit ad eu fugiat nisi enim ipsum ad aliqua amet veniam incididunt. Excepteur deserunt sit laboris aliqua. Id nostrud ex occaecat consequat anim anim tempor commodo dolor. Laborum nisi non commodo anim veniam dolor culpa aliquip ullamco eu exercitation dolore elit."
+        ],
+        "registered": "Thursday, May 22, 2014 1:45 PM",
+        "sire": "5b9483a6bda6166261480e9b",
+        "dam": "5b9483a6bbb2a74a3e205883",
+        "epd": {
+          "CED": "-2",
+          "BW": 0,
+          "WW": 61,
+          "YW": 166,
+          "RADG": 1,
+          "DMI": 2,
+          "YH": 0,
+          "SC": 3,
+          "Doc": 19,
+          "HP": 8,
+          "CEM": 6,
+          "Milk": 28,
+          "MW": "-22",
+          "MH": 1,
+          "EN": "-40",
+          "CW": 37,
+          "Marb": 2,
+          "RE": 1,
+          "Fat": 1,
+          "W": 84,
+          "F": 192,
+          "G": "-14",
+          "QG": 61,
+          "YG": "-9",
+          "B": 101
+        },
+        "genes": [
+          "BFN",
+          "WSN",
+          "RRS",
+          "QAR",
+          "RNK"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.8507144782724,
+          41.99771425295992
+        ]
+      }
+    }
+  ]
+}
